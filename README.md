@@ -53,7 +53,7 @@ Others that I probably forgot zzzzzzzzzzz
 
  Issues:
 - Pyro jetpack meter not correctly working.
-
+- Me not knowing how Github works so I'll have to upload a .rar file instead of how it usually works with huds n stuff.
 
 
 
