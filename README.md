@@ -16,7 +16,7 @@ Decided to upload my hud after a year of editing yahud-5md to my own liking
 
 
 # Current Version : V1.0b
-Last time updated: 1/11/2021.
+Last time updated: 06/11/2021.
 
 
 
