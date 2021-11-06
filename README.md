@@ -16,9 +16,9 @@ Decieded to upload my hud after a year of editing yahud-5md to my own liking
 -=-
 
 Current Version : V1.0b
-Last time updated: 1/11/2021
-.
-Changes from V1.0a to V1.0b
+Last time updated: 1/11/2021.
+
+  Changes from V1.0a to V1.0b
 
 - Fixed chat colliding with the Engineer's building status
 - Removed my no smoke script
