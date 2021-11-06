@@ -1,7 +1,7 @@
 # flareshui
-Decieded to upload my hud after a year of editing yahud-5md to my own liking
+Decided to upload my hud after a year of editing yahud-5md to my own liking
 
- Credits:
+# Credits:
 + YAHUD-5MD,  Created by: Whayay.      Edited version by Hypnootize. (Base hud)
 + Stabbyhud,  Created by: Stabby.      (HudItemEffectMeter, Killstreak counter)
 + Seahud,     Created by: Ronocc.      (Matchstatus)
@@ -15,10 +15,10 @@ Decieded to upload my hud after a year of editing yahud-5md to my own liking
 
 -=-
 
-Current Version : V1.0b
+# Current Version : V1.0b
 Last time updated: 1/11/2021.
 
-  Changes from V1.0a to V1.0b
+# Changes from V1.0a to V1.0b
 
 - Fixed chat colliding with the Engineer's building status
 - Removed my no smoke script
@@ -26,9 +26,9 @@ Last time updated: 1/11/2021.
 
 -=-
 
-  Changle log, Yahud-5MD to flareshui-V1.0a
+# Changle log, Yahud-5MD to flareshui-V1.0a
 
-  Major:
+# Major:
 + Added Color to negative and positive health
 + Added Names to the matchstatus
 + Added New portraits for the classes for spectating, watching demos and casting. (doesn't work on casual, but does on community servers)
@@ -37,7 +37,7 @@ Last time updated: 1/11/2021.
 +  Made the server time to be more inline with casting huds. Top is round time, bottom is server time. (Edited from Broeselhud)
 +   Did a lot of resizing and moving of hud elements.
 
- Minor:
+# Minor:
 + Added a new background.
 + Added colors in some hud elements. (scoreboard on 'important' stats highlighted in blue)
 + Added a new "HudItemEffectMeter", edited from StabbyHud (pyro jetpack breaks :/ )
