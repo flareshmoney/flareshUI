@@ -46,16 +46,16 @@ Last time updated: 06/11/2021.
 + Added a new "HudItemEffectMeter", edited from StabbyHud (pyro jetpack breaks :/ )
 + Added new "SpectatorTournament to be at the top, can be enabled by renaming "SpectatorTournament - Top" to be "SpectatorTournament" etc. (Default is set top left, 9v9 on top hud is wonky but still usable)
 + Moved Engineers metal count to be slightly lower so that it doesn't conflict with healing and looking at a building.
-/ Changed 3D models facings.
-/ Changed Killstreak counter to one from StabbyHud, edited with matching font.
-/ Moved Ammo in reserve to be placed slightly lower.
-/ Moved Killstreak counter to bottom left.
-/ Moved Extra spec info for the people that use "developer 1" (players spectating etc)
-/ Moved Health to the left when in kill freeze frame to compensate for discord and steam messages.
-/ Moved Players on matchstatus closer to the middle.
-/  Made Team colors when spectating solid. 
-/  Made respawn times on matchstatus visible.
-/  Made Control point icons smaller.
++ Changed 3D models facings.
++ Changed Killstreak counter to one from StabbyHud, edited with matching font.
++ Moved Ammo in reserve to be placed slightly lower.
++ Moved Killstreak counter to bottom left.
++ Moved Extra spec info for the people that use "developer 1" (players spectating etc)
++ Moved Health to the left when in kill freeze frame to compensate for discord and steam messages.
++ Moved Players on matchstatus closer to the middle.
++  Made Team colors when spectating solid. 
++  Made respawn times on matchstatus visible.
++  Made Control point icons smaller.
 - Removed team color in the bottom right corner.
 
 Others that I probably forgot zzzzzzzzzzz
