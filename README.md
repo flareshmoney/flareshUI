@@ -13,10 +13,12 @@ Decided to upload my hud after a year of editing yahud-5md to my own liking
   Please note that I am editing huds with out the makers permission, any element from any other huds are credited in this TXT. 
   Get in contact with me if you are the creater of one of the huds which I used elements from.
 
--=-
+
 
 # Current Version : V1.0b
 Last time updated: 1/11/2021.
+
+
 
 # Changes from V1.0a to V1.0b
 
@@ -24,9 +26,10 @@ Last time updated: 1/11/2021.
 - Removed my no smoke script
 
 
--=-
 
 # Changle log, Yahud-5MD to flareshui-V1.0a
+
+
 
 # Major:
 + Added Color to negative and positive health
@@ -57,7 +60,7 @@ Last time updated: 1/11/2021.
 
 Others that I probably forgot zzzzzzzzzzz
 
- Issues:
+# Issues:
 - Pyro jetpack meter not correctly working.
 - Me not knowing how Github works so I'll have to upload a .rar file instead of how it usually works with huds n stuff.
 
