@@ -2,12 +2,12 @@
 Decieded to upload my hud after a year of editing yahud-5md to my own liking
 
  Credits:
-YAHUD-5MD,  Created by: Whayay.      Edited version by Hypnootize. (Base hud)
-Stabbyhud,  Created by: Stabby.      (HudItemEffectMeter, Killstreak counter)
-Seahud,     Created by: Ronocc.      (Matchstatus)
-mkmthud,    Created by: ?.           (Class portraits when specing)
-PEACHHUD,   Created by: PeachesTV.   (Main menu image)
-BroeselHud, Created by: Broesel.     (HudObjectiveTimePanel, aka Server time)
++ YAHUD-5MD,  Created by: Whayay.      Edited version by Hypnootize. (Base hud)
++ Stabbyhud,  Created by: Stabby.      (HudItemEffectMeter, Killstreak counter)
++ Seahud,     Created by: Ronocc.      (Matchstatus)
++ mkmthud,    Created by: ?.           (Class portraits when specing)
++ PEACHHUD,   Created by: PeachesTV.   (Main menu image)
++ BroeselHud, Created by: Broesel.     (HudObjectiveTimePanel, aka Server time)
 
 
   Please note that I am editing huds with out the makers permission, any element from any other huds are credited in this TXT. 
