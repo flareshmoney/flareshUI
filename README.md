@@ -24,7 +24,7 @@ Last time updated: 06/11/2021.
 
 - Fixed chat colliding with the Engineer's building status
 - Removed my no smoke script
-
+- Added a screenshots folder, will change placement of screenshots in the future.
 
 
 # Changle log, Yahud-5MD to flareshui-V1.0a
