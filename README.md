@@ -22,10 +22,10 @@ Last time updated: 07/11/2021.
 
 # Changes from V1.0b to V1.0c
 
-- Fixed killstreak count colliding with Spy's disguise
+- Fixed killstreak count colliding with Spy's disguise, by moving it to the right of the screen.
 - Fixed Red's color for the hud playerclass not using the correct one.
-- Made Spy's BG for when he's disguised a bit smaller 
-- Made slight adjustments to Sniper's Hudplayerclass
+- Made Spy's BG for when he's disguised a bit smaller.
+- Made slight adjustments to Sniper's Hudplayerclass.
 
 
 
