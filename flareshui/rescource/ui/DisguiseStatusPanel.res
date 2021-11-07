@@ -55,7 +55,7 @@
 		"xpos"			"22"
 		"ypos"			"434"
         "zpos"          "-4"
-		"wide"			"180"
+		"wide"			"130"
 		"tall"			"20"
 		"fillcolor"		"DarkGray"
 		"visible"		"1"
