@@ -15,16 +15,18 @@ Decided to upload my hud after a year of editing yahud-5md to my own liking
 
 
 
-# Current Version : V1.0b
-Last time updated: 06/11/2021.
+# Current Version : V1.0c
+Last time updated: 07/11/2021.
 
 
 
-# Changes from V1.0a to V1.0b
+# Changes from V1.0b to V1.0c
 
-- Fixed chat colliding with the Engineer's building status
-- Removed my no smoke script
-- Added a screenshots folder, will change placement of screenshots in the future.
+- Fixed killstreak count colliding with Spy's disguise
+- Fixed Red's color for the hud playerclass not using the correct one.
+- Made Spy's BG for when he's disguised a bit smaller 
+- Made slight adjustments to Sniper's Hudplayerclass
+
 
 
 # Changle log, Yahud-5MD to flareshui-V1.0a
