@@ -15,18 +15,15 @@ Decided to upload my hud after a year of editing yahud-5md to my own liking
 
 
 
-# Current Version : V1.0c
-Last time updated: 07/11/2021.
+# Current Version : V1.0d
+Last time updated: 10/11/2021.
 
 
 
-# Changes from V1.0b to V1.0c
+# Changes from V1.0c to V1.0d
 
-- Fixed killstreak count colliding with Spy's disguise, by moving it to the right of the screen.
-- Fixed Red's color for the hud playerclass not using the correct one.
-- Made Spy's BG for when he's disguised a bit smaller.
-- Made slight adjustments to Sniper's Hudplayerclass.
-
+- Made the CTF hud more bearable, and cleaner to look at.
+- Fixed the posistioning of the pass time score elements.
 
 
 # Changle log, Yahud-5MD to flareshui-V1.0a
