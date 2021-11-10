@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPasstimeBallStatus"
 		"xpos"			"-1"
-		"ypos"			"15"
+		"ypos"			"-5"
 		"zpos"			"100"
 		"wide"			"f0"
 		"tall"			"f0"
