@@ -5,7 +5,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusFlagPanel"
 		"xpos"				"0"
-		"ypos"				"7"
+		"ypos"				"0"
 		"zpos"				"-1"
 		"wide"				"f0"
 		"tall"				"480"
@@ -21,12 +21,12 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BlueBG"
-		"xpos"			"c-80"
+		"xpos"			"c-30" //80
 		"ypos"			"r35"
         "zpos"          "-4"
-		"wide"			"80"
-		"tall"			"17"
-		"fillcolor"		"Blue"
+		"wide"			"30" //80
+		"tall"			"16"
+		"fillcolor"		"10 128 221 150"  //Blue
 		"visible"		"1"
 		"enabled"		"1"
         
@@ -52,9 +52,9 @@
 		"xpos"			"c0"
 		"ypos"			"r35"
         "zpos"          "-4"
-		"wide"			"80"
-		"tall"			"17"
-		"fillcolor"		"Red"
+		"wide"			"31-.05"
+		"tall"			"16"
+		"fillcolor"		"245 51 62 150"  //Red
 		"visible"		"1"
 		"enabled"		"1"
         
@@ -77,10 +77,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"DarkBG"
-		"xpos"			"c-80"
+		"xpos"			"c-30"
 		"ypos"			"r19"
         "zpos"          "-5"
-		"wide"			"160"
+		"wide"			"60" //160
 		"tall"			"12"
 		"fillcolor"		"DarkGray"
 		"visible"		"1"
@@ -293,8 +293,8 @@
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
-		"xpos"			"c-105"
-		"ypos"			"r125"
+		"xpos"			"c-130"
+		"ypos"			"r90"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
@@ -336,8 +336,8 @@
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"RedFlag"
-		"xpos"			"c-55"
-		"ypos"			"r125"
+		"xpos"			"c-32"
+		"ypos"			"r90"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
@@ -376,7 +376,7 @@
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"CaptureFlag"
 		"xpos"			"c-21"
-		"ypos"			"r79"
+		"ypos"			"r72"
 		"zpos"			"-1"
 		"wide"			"42"
 		"tall"			"42"
