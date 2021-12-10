@@ -36,7 +36,9 @@ Get in contact with me if you want me to delete your hud elements.
 
 
 # Current Version: V2.0a
-Last time updated: 
+Time released:     10/12/2021
+Last time updated: 10/12/2021
+
 
 
 # Changelog from V1.0d to V2.0a 
