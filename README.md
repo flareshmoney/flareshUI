@@ -1,42 +1,98 @@
 # flareshui
-Decided to upload my hud after a year of editing yahud-5md to my own liking
+Decided to upload my hud after a year+ of editing Yahud-5MD to my own liking.
+
 
 # Credits:
-+ YAHUD-5MD,  Created by: Whayay.      Edited version by Hypnootize. (Base hud)
-+ Stabbyhud,  Created by: Stabby.      (HudItemEffectMeter, Killstreak counter)
-+ Seahud,     Created by: (Private).   (Matchstatus)
-+ mkmthud,    Created by: ?.           (Class portraits when specing)
-+ PEACHHUD,   Created by: PeachesTV.   (Main menu image)
-+ BroeselHud, Created by: Broesel.     (HudObjectiveTimePanel, aka Server time)
++ YAHUD-5MD,  Created by: Whayay.         Edited version by Hypnootize. (Base hud)
++ Arekkhud,   Created by: Arekk           New font (Product sans)
++ Yttrium's High Res Class Select Images  ( https://www.teamfortress.tv/52291/high-res-class-select-images )
++ Stabbyhud,  Created by: Stabby.         (HudItemEffectMeter, Killstreak counter)
++ Seahud,     Created by: (Private).      (Matchstatus)
++ Flamehud,   Created by: Flame           (Scoreboard, Killerfreezepannel)
++ mkmthud,    Created by: ?.              (Class portraits when specing)
++ PEACHHUD,   Created by: PeachesTV.      (Main menu image, Winlimit)
++ BroeselHud, Created by: Broesel.        (HudObjectiveTimePanel, aka Server time)
+
+Please note that I am editing huds with out the makers permission, 
+any element from any other huds are credited in this TXT. 
+Get in contact with me if you want me to delete your hud elements.
+( https://steamcommunity.com/id/flaresmoney/ )
+
+# Features:
++ Positive and Negative Health colors.
++ Damage Numbers displayed and outlined on hud.
++ Names on the Matchstatus (where your team's classes are displayed)
++ Custom crosshairs
++ Multible SpectaterUI's to choose from.
++ Removed annoying backgrounds from yahud.
 
 
-  Please note that I am editing huds with out the makers permission, any element from any other huds are credited in this TXT. 
-  Get in contact with me if you are the creater of one of the huds which I used elements from.
+
+# Early testers:
++ Tomo        (Suggested Metal changes)
++ Joe         (Suggested new SpectatorUI)
++ Creamy      (Suggested new SpectatorUI, Outlines on Damage Numbers, bigger playermodel, low ammo new color)
 
 
 
-# Current Version : V1.0d
-Last time updated: 10/11/2021.
+# Current Version: V2.0a
+Last time updated: 
 
 
-
-# Changes from V1.0c to V1.0d
-
-- Made the CTF hud more bearable, and cleaner to look at.
-- Fixed the posistioning of the pass time score elements.
-
-
-# Changle log, Yahud-5MD to flareshui-V1.0a
-
-
+# Changelog from V1.0d to V2.0a 
 
 # Major:
++ Added a New Font
++ New round counter ̶c̶o̶p̶p̶i̶e̶d borrowed from Peachhud.
++ New Scoreboard from Flamehud.
++ New SpectatorTournamentUI's, Located in the "Customizations" folder.
++ Made Matchstatus more inline with TF_use_match_hud 0.
++ Made KOTH UI more inline with casting huds (TF_use_match_hud 1)
++ Recolored the low ammo color from gray to yellow
++ Improved TF_use_match_hud 0 round time.
++ Improved TF_use_match_hud 0 Koth timer.
++ Added a team colored background to Engineer's buildings (due to a visibility issue).
++ Moved and made Engineer's metal counter bigger.
++ Fixed Kill freeze pannel, now in the low center of the screen. (file from Flamehud)
+
+# Minor:
++ Added new backgrounds to text that needed them due to visibility issues.
++ Added an outline to the Damage Numbers being displayed above the enemy gamer.
++ Added a blue color to inputted commands in the console.
++ Added New class icons when on the loadout screen. (yttrium's High Res Class Select Images)
++ Made the bottom right star on the menu display version and hud name in console.
++ Made  the stopwatch UI slightly different due to some game crash issues.
++ Moved top Spectator Tournament more to the center to compensate for the smaller matchstatus
++ Moved PL UI slighty downwards
++ Removed reason for winning on the win panel as it caused several minor issues.
+
+# Known Issues:
++ Slight visibility issues on mp_winlimit.
++ Pyro jetpack meter not being on the same ypos.
++ Some hudelements being 1 pixel off.
++ [Unknown] Being displayed where the map name should be.
++ Respawn timer colliding with other hud elements
+
+
+
+# Every changelog from V1.0a to V2.0a
+
+# Major:
++ Added a New Font
 + Added Color to negative and positive health
 + Added Names to the matchstatus
 + Added New portraits for the classes for spectating, watching demos and casting. (doesn't work on casual, but does on community servers)
 + Added a new TargetID
 + Added Damage numbers right next to the health.
++ New Scoreboard from Flamehud.
++ New SpectatorTournamentUI's, Located in the "Customizations" folder.
++ Recolored the low ammo color from gray to yellow
++ Improved TF_use_match_hud 0 round time.
++ Improved TF_use_match_hud 0 Koth timer.
++ Moved and made Engineer's metal counter bigger.
 +  Made the server time to be more inline with casting huds. Top is round time, bottom is server time. (Edited from Broeselhud)
++  Made KOTH UI more inline with casting huds (TF_use_match_hud 1)
++ Fixed Kill freeze pannel, now in the low center of the screen. (file from Flamehud)
 +   Did a lot of resizing and moving of hud elements.
 
 # Minor:
@@ -44,7 +100,12 @@ Last time updated: 10/11/2021.
 + Added colors in some hud elements. (scoreboard on 'important' stats highlighted in blue)
 + Added a new "HudItemEffectMeter", edited from StabbyHud (pyro jetpack breaks :/ )
 + Added new "SpectatorTournament to be at the top, can be enabled by renaming "SpectatorTournament - Top" to be "SpectatorTournament" etc. (Default is set top left, 9v9 on top hud is wonky but still usable)
-+ Moved Engineers metal count to be slightly lower so that it doesn't conflict with healing and looking at a building.
++ Added new backgrounds to images that needed them due to visibility issues.
++ Added an outline to the Damage Numbers being displayed above the enemy gamer.
++ Added a blue color to inputted commands in the console.
++ Added New class icons when on the loadout screen. (yttrium's High Res Class Select Images)
++ New Scoreboard from Flamehud.
++ New SpectatorTournamentUI's, Located in the "Customizations" folder.
 + Changed 3D models facings.
 + Changed Killstreak counter to one from StabbyHud, edited with matching font.
 + Moved Ammo in reserve to be placed slightly lower.
@@ -52,20 +113,13 @@ Last time updated: 10/11/2021.
 + Moved Extra spec info for the people that use "developer 1" (players spectating etc)
 + Moved Health to the left when in kill freeze frame to compensate for discord and steam messages.
 + Moved Players on matchstatus closer to the middle.
++ Moved top Spectator Tournament more to the center to compensate for the smaller matchstatus
++ Moved PL UI slighty downwards
 +  Made Team colors when spectating solid. 
 +  Made respawn times on matchstatus visible.
 +  Made Control point icons smaller.
-- Removed team color in the bottom right corner.
-
-Others that I probably forgot zzzzzzzzzzz
-
-# Issues:
-- Pyro jetpack meter not correctly working.
-- Me not knowing how Github works so I'll have to upload a .rar file instead of how it usually works with huds n stuff.
-
-
-
-
-
-
++  Made the bottom right star on the menu display version and hud name in console.
++  Made the stopwatch UI slightly different due to some game crash issues.
++ Removed team color in the bottom right corner.
++ Removed reason for winning on the win panel as it caused several minor issues.
 
