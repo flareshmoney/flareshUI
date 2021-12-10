@@ -90,7 +90,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueTour"
-		"xpos"			"0"
+		"xpos"			"-1"
 		"ypos"			"-2"
 		"zpos"			"5"
 		"wide"			"28"
@@ -100,13 +100,13 @@
 		"labeltext"		"%Health%"
 		"textAlignment"		"center"
 		"fgcolor"			"Health"
-		"font"			"NoveMedium14"
+		"font"			"Product18"
     }
     "PlayerStatusHealthValueTourShadow"
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueTourShadow"
-		"xpos"			"1"
+		"xpos"			"0"
 		"ypos"			"-1"
 		"zpos"			"4"
 		"wide"			"28"
@@ -116,6 +116,6 @@
 		"labeltext"		"%Health%"
 		"textAlignment"		"center"
 		"fgcolor"			"HudShadow"
-		"font"			"NoveMedium14"
+		"font"			"Product18"
       }	
 }

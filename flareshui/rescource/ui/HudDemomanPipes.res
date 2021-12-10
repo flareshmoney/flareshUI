@@ -55,6 +55,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
+	
+	
 	"PipesPresentPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -100,7 +102,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"DataLabelBig"
+			"font"			"Product22"
 			"fgcolor"		"White"
 		}		
 		"NumPipesLabelShadow"
@@ -121,7 +123,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"1"
 			"brighttext"	"0"
-			"font"			"DataLabelBig"
+			"font"			"Product22"
 			"fgcolor"		"HudShadow"
 		}		
 	}

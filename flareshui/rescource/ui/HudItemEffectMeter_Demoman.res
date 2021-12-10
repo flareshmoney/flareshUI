@@ -89,7 +89,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		        "AmmoReserve"
-		"font"				    "HeavyCaps18"
+		"font"				    "Product20"
 	}
 	
 	"ItemEffectMeterCountShadow"
@@ -110,6 +110,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		        "HudShadow"
-		"font"				    "HeavyCaps18"
+		"font"				    "Product20"
 	}
 }

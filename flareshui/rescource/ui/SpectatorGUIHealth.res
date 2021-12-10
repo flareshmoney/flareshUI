@@ -81,7 +81,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueSpec"
 		"xpos"			"-4"
-		"ypos"			"5"
+		"ypos"			"7"
 		"zpos"			"5"
 		"wide"			"54"
 		"tall"			"25"
@@ -89,7 +89,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"BoldNumbers24"
+		"font"			"Product26"
 		"fgcolor"		"Health"
 	}			
 	"PlayerStatusHealthValueSpecShadow"
@@ -97,7 +97,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueSpecShadow"
 		"xpos"			"-3"
-		"ypos"			"6"
+		"ypos"			"8"
 		"zpos"			"5"
 		"wide"			"54"
 		"tall"			"25"
@@ -105,7 +105,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"BoldNumbers24"
+		"font"			"Product26"
 		"fgcolor"		"HudShadow"
 	}	
 

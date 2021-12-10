@@ -2,22 +2,77 @@
 {	
 	"TimePanelBG"
 	{
-		"ControlName"			"ScalableImagePanel"
+		"ControlName"			"ImagePanel"
 		"fieldName"				"TimePanelBG"
-		"xpos"					"50"
-		"ypos"					"0"
+		"xpos"					"c15"
+		"ypos"					"6"
 		"zpos"					"2"
-		"wide"					"38"
+		"wide"					"40"
 		"tall"					"13"
-		"visible"				"0"
-		"enabled"				"0"
-		"image"					"../hud/objectives_timepanel_blue_bg"	
+		"visible"				"1"
+		"enabled"				"1"
+		"fillcolor"		"0 0 0 200"
 		"scaleImage"			"1"	
-		"src_corner_height"		"3"
-		"src_corner_width"		"3"
+		"src_corner_height"		"0"
+		"src_corner_width"		"0"
 		"draw_corner_width"		"0"
 		"draw_corner_height" 	"0"
+
+	 "if_match"  //tf_use_match_hud 1
+	 {
+	    "ypos"                  "14"
+		"visible"				"1"
+		"enabled"				"1"
+			
+	 }
+    }
+	
+	"ServerTimeLimitLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ServerTimeLimitLabel"
+		"xpos"			"c15"
+		"ypos"			"19"
+		"zpos"			"17"
+		"wide"			"38"
+		"tall"			"13"
+		"visible"		"0"
+		"enabled"		"1"
+		"labelText"		"%servertimeleft%"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"wrap"			"0"
+		"font"			"Product17"
+		"fgcolor"		"255 255 255 255"
+		
+		if_match
+		{
+			"xpos"		"c16"
+			"ypos"		"27"
+		}
 	}
+	
+	"ServerTimeLimitLabelBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ServerTimeLimitLabelBG"
+		"xpos"			"c15"
+		"ypos"			"19"
+		"zpos"			"16"
+		"wide"			"40"
+		"tall"			"13"
+		"visible"		"0"
+		"enabled"		"0"
+		"fillcolor"		"0 0 0 150"
+		
+		if_match
+		{
+			"xpos"		"c15"
+			"ypos"		"27"
+		}
+	}
+
 	
 	"TimePanelProgressBar"
 	{
@@ -141,12 +196,14 @@
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"	"1"
 	}	
+	
+	//Setup text
 	"SetupLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SetupLabel"
-		"xpos"			"c15"
-		"ypos"			"29"
+		"xpos"			"c16"
+		"ypos"			"15"
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"19"
@@ -157,15 +214,20 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"font"			"surface10"
+		"font"			"Product12"
 		"fgcolor"		"255 255 255 255"
+		
+		if_match
+		{
+				"ypos"			"23"
+		}
 	}	
 	"SetupBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SetupBG"
-		"xpos"			"c15"
-		"ypos"			"32"
+		"xpos"			"c16"
+		"ypos"			"19"
 		"zpos"			"1"
 		"wide"			"38"
 		"tall"			"12"
@@ -173,51 +235,10 @@
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 150"	
 		"PaintBackgroundType"	"0"
-	}
-	
-	"ServerTimeLimitLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"ServerTimeLimitLabel"
-		"xpos"			"c53"
-		"ypos"			"5"
-		"zpos"			"5"
-		"wide"			"38"
-		"tall"			"13"
-		"visible"		"0"
-		"enabled"		"1"
-		"labelText"		"%servertimeleft%"
-		"textAlignment"	"center"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"wrap"			"0"
-		"font"			"NoveMedium14"
-		"fgcolor"		"255 255 255 255"
 		
 		if_match
 		{
-			"xpos"		"c16"
-			"ypos"		"31"
-		}
-	}
-	
-	"ServerTimeLimitLabelBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ServerTimeLimitLabelBG"
-		"xpos"			"c53"
-		"ypos"			"6"
-		"zpos"			"1"
-		"wide"			"38"
-		"tall"			"13"
-		"visible"		"0"
-		"enabled"		"0"
-		"fillcolor"		"0 0 0 150"
-		
-		if_match
-		{
-			"xpos"		"c16"
-			"ypos"		"32"
+				"ypos"			"27"
 		}
 	}
 }

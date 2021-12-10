@@ -3,14 +3,15 @@
 	"CDamageAccountPanel"
 	{
 		"fieldName"				"CDamageAccountPanel"
+		"zpos"                  "0"
 		"text_x"				"7"
 		"text_y"				"0"
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"255 255 0 255"
 		"NegativeColor"			"255 255 0 255"
 		"delta_lifetime"		"3.0"
-		"delta_item_font"		"DataLabelBig"
-		"delta_item_font_big"	"DataLabelBig"
+		"delta_item_font"		"Product20Outline"
+		"delta_item_font_big"	"Product20Outline"
 	}
 
 	"DamageAccountValue"
@@ -28,7 +29,7 @@
 		"delta_lifetime"		"10.0"
 		"textAlignment"	"east"
 		"fgcolor"		"255 255 0 255"
-		"font"			"DataLabelBig"
+		"font"			"Product20"
 	}
 	"DamageAccountValueShadow"
 	{
@@ -45,6 +46,6 @@
 		"delta_lifetime"	"10.0"
 		"textAlignment"	 	"east"
 		"fgcolor"	 		"HudShadow"
-		"font"	 			"DataLabelBig"			
+		"font"	 			"Product20"			
 	}
 }

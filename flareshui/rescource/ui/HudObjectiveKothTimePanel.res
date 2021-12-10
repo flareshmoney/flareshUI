@@ -5,16 +5,18 @@
 	{
 		if_match
 		{
-			"zpos"		"5"
+		    //"ypos"      "50"
+			"zpos"		"6"
 		}
 	}
 
+    //Blue's Timer
 	"BlueTimer"
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"BlueTimer"
-		"xpos"				"0"
-		"ypos"				"0"
+		"xpos"				"23"
+		"ypos"				"1"
 		"zpos"				"-1"
 		"wide"				"80"
 		"tall"				"50"
@@ -23,18 +25,19 @@
 		
 		if_match
 		{
-			"xpos"			"23"
-			"ypos"			"11"
+		    "ypos"      "4"
 		}
 		
+		
+		//Also blue's timer?
 		"TimePanelValue"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"MediumNumbers18"
+			"font"			"Product16"
 			"fgcolor"		"White"
 			"xpos"			"0"
-			"ypos"			"-2"
+			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"80"
 			"tall"			"17"
@@ -42,20 +45,16 @@
 			"enabled"		"1"
 			"textAlignment"	"center"
 			"labelText"		"0:00"
-			
-			if_match
-			{
-				"font"		"MediumNumbers14"
-			}
 		}
 	}
 
+    //Red's timer
 	"RedTimer"
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"RedTimer"
-		"xpos"				"80"
-		"ypos"				"0"
+		"xpos"				"57"
+		"ypos"				"1"
 		"zpos"				"-1"
 		"wide"				"80"
 		"tall"				"50"
@@ -64,18 +63,19 @@
 		
 		if_match
 		{
-			"xpos"			"58"
-			"ypos"			"11"
+		    "ypos"      "4"
 		}
+
 		
+		//Also reds timer
 		"TimePanelValue"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"MediumNumbers18"
+			"font"			"Product16"
 			"fgcolor"		"White"
-			"xpos"			"0"
-			"ypos"			"-2"
+			"xpos"			""
+			"ypos"			"0"
 			"zpos"			"-1"
 			"wide"			"80"
 			"tall"			"17"
@@ -83,59 +83,66 @@
 			"enabled"		"1"
 			"textAlignment"	"center"
 			"labelText"		"0:00"
-			
-			if_match
-			{
-				"font"		"MediumNumbers14"
-			}
+
 		}
 	}
+	
+	//Red's BG Color for tf_use_match_hud 0
 	"RedBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"RedBG"
 		"xpos"          "80"
 		"ypos"          "0"
-		"zpos"          "-8"
-		"wide"          "80"
-		"tall"          "17"
+		"zpos"          "-20"
+		"wide"          "36"
+		"tall"          "16"
 		"fillcolor"		"Red"
 		"visible"		"1"
 		"enabled"		"1"
 		
 		if_match
 		{
-			"visible"	"0"
+		    "fillcolor"		"0 0 0 200"
+			"tall"      "13"
+		    "ypos"      "6"
+			"visible"	"1"
 		}
 	}
+	// ^ but for blue
 	"BlueBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BlueBG"
-		"xpos"          "0"
+		"xpos"          "44"
 		"ypos"          "0"
-		"zpos"          "-8"
-		"wide"          "80"
-		"tall"          "17"
+		"zpos"          "-20"
+		"wide"          "36"
+		"tall"          "16"
 		"fillcolor"		"Blue"
 		"visible"		"1"
 		"enabled"		"1"
 		
 		if_match
 		{
-			"visible"	"0"
+		    "fillcolor"		"0 0 0 200"
+			"tall"      "13"
+		    "ypos"      "6"
+			"visible"	"1"
 		}
 	}
 	
+	
+	//Xpos editable in Hudlayout.res
 	"ActiveTimerBG"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"ActiveTimerBG"
-		"xpos"				"0"
+		"xpos"				"78"
 		"ypos"				"0"
-		"zpos"				"-1"
-		"wide"				"80"
-		"tall"				"1"
+		"zpos"				"5"
+		"wide"				"30"
+		"tall"				"3"
 		"fillcolor"		    "White"
 		"visible"			"0"
 		"enabled"			"1"

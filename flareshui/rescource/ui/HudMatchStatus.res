@@ -195,17 +195,59 @@
 		}
 	}
 	
+	
+	//MP_winlimit stuff
 	"RoundCounter"
 	{
-		"fieldName"		"RoundCounter"
+		"fieldName"								"RoundCounter"
 		"xpos"			"cs-0.5"
-		"ypos"			"-2"
-		"zpos"			"1"		
-		"wide"			"300"
-		"tall"			"100"
-		"visible"		"1"
-		"enabled"		"1"
+		"ypos"									"-6"
+		"zpos"									"0"
+		"wide"									"300"
+		"tall"									"12"
+		"visible"								"1"
+		"enabled"								"1"
 		
+		"starting_width"						"0"
+		"width_per_round"						"0"
+		"indicator_start_offset"				"3"
+		"indicator_max_wide"					"29"
+		
+		"RoundIndicatorPanel_kv"
+		{
+
+			"ypos"								"7"
+			"wide"								"4"
+			"tall"								"4"
+			"zpos"								"98"
+			"image"								"../vgui/replay/thumbnails/panels/Material_Transparent_Black_70"
+			"scaleimage"						"1"
+		}
+		
+		"RoundWinPanelRed_kv"
+		{
+			"ypos"								"7"
+			"wide"								"4"
+			"tall"								"4"
+			"zpos"								"99"
+			"image"								"../vgui/replay/thumbnails/panels/Panel_Red"
+			"scaleimage"						"1"
+		}
+
+		"RoundWinPanelBlue_kv"
+		{
+			"ypos"								"7"
+			"wide"								"4"
+			"tall"								"4"
+			"zpos"								"99"
+			"image"								"../vgui/replay/thumbnails/panels/Panel_Blue"
+			"scaleimage"						"1"
+		}
+		
+		"Background"
+		{
+			"ypos"								"9999"
+		}
 	}
 	
 	"BGFrame"
@@ -275,7 +317,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"-35"
-		"ypos"				"-6"	
+		"ypos"				"-7"	
 		"zpos"				"4"
 		"wide"				"f0"
 		"tall"				"480"
@@ -289,31 +331,18 @@
 		"PositiveColor"			"Green"
 		"NegativeColor"			"Red"
 		"delta_lifetime"		"2.0"
-		"delta_item_font"		"NoveLight20"
+		"delta_item_font"		"Product18"
 		
 		
 		
 		if_match  //tf_use_match_hud 1
 		{
 			"xpos"				"-35"
-			"zpos"				"5"
-			"ypos"				"-6"
+			"zpos"				"-10"
+			"ypos"				"-8"
 		}
 		
-		"ObjectiveStatusTimePanelBG"
-		{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ObjectiveStatusTimePanelBG"
-		"xpos"			"c15"
-		"ypos"			"6"
-		"zpos"			"-11"
-		"wide"			"38"
-		"tall"			"15"
-		"visible"		"0"
-		"enabled"		"0"
-		"fillcolor"		"0 0 0 150"	
-		"PaintBackgroundType"	"0"
-	  }
+
 	
 		
 		//Round time
@@ -321,11 +350,11 @@
         {
             "ControlName"	"CExLabel"
             "fieldName"		"TimePanelValue"
-            "font"			"MediumNumbers20"
+            "font"			"Product18"
             "fgcolor"		"LightGray"
             "xpos"			"c-6"
-            "ypos"			"2"
-            "zpos"			"3"
+            "ypos"			"3"
+            "zpos"			"18"
             "wide"			"80"
             "tall"			"20"
             "visible"		"1"
@@ -336,11 +365,16 @@
 			// tf_use_match_hud 1
 			if_match
 			{
-			    "ypos"			"13"
+			    "ypos"			"10"
 			    "xpos"			"c-5"
-				"font"		"MediumNumbers16"
+				"font"		"Product18"
 			}
-		}	
+			
+		}
+
+
+
+		
 	}
 	
 	"TeamStatus"
@@ -361,12 +395,12 @@
 		"12v12_gap"									"0"
             //blue 
 		"team1_grow_dir" 							"west"
-		"team1_base_x"								"c-36"
+		"team1_base_x"								"c-36" //c-36
 		"team1_max_expand"							"225"
 
            //red 
 		"team2_grow_dir" 							"east"
-		"team2_base_x"								"c37"
+		"team2_base_x"								"c37" //c37
 		"team2_max_expand"							"225"
 
 		"playerpanels_kv"

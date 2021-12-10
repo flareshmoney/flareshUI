@@ -9,7 +9,7 @@
 		"NegativeColor"			"Red"
 		"zpos"			        "-1"
 		"delta_lifetime"		"0.8"
-		"delta_item_font"		"NoveMedium18"
+		"delta_item_font"		"Product18"
 		"textAlignment"	"east"
 	}
 	
@@ -44,7 +44,7 @@
 		"pinCorner"	"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"		"HudBG"
+		"fillcolor"		"0 0 0 150"
 		"PaintBackgroundType""0"
 
 	}
@@ -68,12 +68,13 @@
 		"iconColor"		"ProgressOffWhite"
 	}
 
+    //Metal Text
 	"AccountValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
 		"xpos"			"9"
-		"ypos"			"25"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"99"
 		"tall"			"34"
@@ -87,14 +88,16 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"White"
-		"font"			"DataLabelBig"
+		"font"			"Product30"
 	}
+	
+	//Metal Text shadow
 	"AccountValueShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValueShadow"
 		"xpos"			"10"
-		"ypos"			"26"
+		"ypos"			"1"
 		"zpos"			"2"
 		"wide"			"99"
 		"tall"			"34"
@@ -108,6 +111,6 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"HudShadow"
-		"font"			"DataLabelBig"
+		"font"			"Product30"
 	}
 }

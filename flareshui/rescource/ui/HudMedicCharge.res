@@ -119,7 +119,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"BoldNumbers54"
+		"font"			"Product55Bold"
 		"fgcolor"		"White"
 	}
     "ChargeLabelShadow"
@@ -140,7 +140,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"BoldNumbers54"
+		"font"			"Product55Bold"
 		"fgcolor"		"HudShadow"
 	}
 	"IndividualChargesLabel"

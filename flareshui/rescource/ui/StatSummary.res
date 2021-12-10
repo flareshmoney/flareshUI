@@ -33,7 +33,7 @@
         "zpos"          "202"
 		"wide"		"f0"
 		"tall"		"480"
-		"visible"	"0"
+		"visible"	"1"
 		"enabled"	"1"
 		"bgcolor_override"	"DarkGray"
         
@@ -207,7 +207,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"HeavyCaps59"
+		"font"			"Product20"
 		"labelText"		"%maplabel%"
 		"textAlignment"	"west"
 		"xpos"			"15"
@@ -224,7 +224,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"NoveMedium12"
+		"font"			"Product12"
 		"labelText"		"%maptype%"
 		"textAlignment"	"west"
 		"xpos"			"17"

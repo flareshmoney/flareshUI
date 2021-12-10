@@ -24,7 +24,7 @@
 		"draw_corner_height" 	"10"	
 	}
 	
-	//Team bli player color
+	//Team bl player color
 	"TargetIDBG_Spec_Blue"
 	{
 		"ControlName"		"ScalableImagePanel"
@@ -92,12 +92,12 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Medium17"				//Medium12
+		"font"			"Product18"				//Medium12
 		"xpos"			"53"
-		"ypos"			"32"	
+		"ypos"			"29"	
 		"zpos"			"4"
 		"wide"			"640"
-		"tall"			"14"
+		"tall"			"20"
 		"fgcolor"		"White"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -115,12 +115,12 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabelShadow"
-		"font"			"Medium17"				//Medium12
+		"font"			"Product18"				//Medium12
 		"xpos"			"61"
-		"ypos"			"33"	
+		"ypos"			"30"	
 		"zpos"			"-2"
 		"wide"			"640"
-		"tall"			"14"
+		"tall"			"20"
 		"fgcolor"		"Black"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -138,7 +138,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabel"
-		"font"			"NoveMedium9"
+		"font"			"Product12"
 		"xpos"			"52"
 		"ypos"			"19"		
 		"zpos"			"4"
@@ -170,7 +170,7 @@
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
-		"TFFont"		"HudFontSmall"
+		"Font"		"Product18"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"		"Health"
 	}

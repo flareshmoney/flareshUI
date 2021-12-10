@@ -118,7 +118,7 @@
 		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"20"
-		"visible"		"0"
+		"visible"		"1"
 		"TeamColoredBG"
 		{
 			"ControlName"	"CTFImagePanel"
@@ -128,7 +128,7 @@
 			"zpos"			"-10"		
 			"wide"			"108"
 			"tall"			"56"
-			"visible"		"0"
+			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/color_panel_brown"
 			"scaleImage"	"1"

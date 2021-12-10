@@ -14,14 +14,17 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 	}
+	
+	
 	"Background"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Background"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"wide"			"0"
-		"tall"			"0"
+		"xpos"			"20"
+		"ypos"			"100"
+		"wide"			"150"
+		"tall"			"50"
+		"fillcolor"		"0 0 0 100"
 		"visible"		"0"
 		"enabled"		"0"
 	}
@@ -144,7 +147,7 @@
 		"ypos"			"207"
 		"wide"			"160"
 		"tall"			"60"
-		"visible"		"0"
+		"visible"		"1"
 		"TeamColoredBG"
 		{
 			"ControlName"	"CTFImagePanel"
@@ -154,7 +157,7 @@
 			"zpos"			"-10"		
 			"wide"			"108"
 			"tall"			"56"
-			"visible"		"0"
+			"visible"		"1"
 			"enabled"		"1"
 			"image"			"../hud/color_panel_brown"
 			"scaleImage"	"1"
@@ -177,7 +180,7 @@
 			"tall"					"56"
 			"autoResize"			"0"
 			"pinCorner"				"0"
-			"visible"				"0"
+			"visible"				"1"
 			"enabled"				"1"
 			"fillcolor"				"28 28 28 255"
 			"PaintBackgroundType"	"0"

@@ -90,15 +90,15 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		        "255 200 30 255"
-		"font"				    "HeavyCaps18"
+		"font"				    "Product20"
 	}
 	
 	"ItemEffectMeterCountShadow"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"			        "c189"	
-		"ypos"			        "348"
+		"xpos"			        "c190"	
+		"ypos"			        "349"
 		"zpos"					"2"
 		"wide"					"93"
 		"tall"					"24"	
@@ -111,6 +111,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		        "HudShadow"
-		"font"				    "HeavyCaps18"
+		"font"				    "Product20"
 	}
 }

@@ -5,7 +5,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r1000"
+		"xpos"			"r820"
 		"ypos"			"443"
 		"xpos_minmode"  "r820"
 		"wide"			"f0"
@@ -90,7 +90,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"MediumNumbers20"
+		"font"					"Product20"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -109,7 +109,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"MediumNumbers20"
+		"font"					"Product20"
 		"fgcolor"				"black"
 	}
 }

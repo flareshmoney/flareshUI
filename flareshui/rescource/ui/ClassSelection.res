@@ -98,7 +98,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"Product16"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "White"
@@ -123,7 +123,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 12"
 		"Default"			"1"
-		"font"				"NoveMedium10"
+		"font"				"Product18Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_random_inactive"
@@ -194,11 +194,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"SCOUT"	
+		"labelText"			"Scout"	
 		"textAlignment"		"west"
 		"Command"			"select 1"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		""
@@ -255,11 +255,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"SOLDIER"	
+		"labelText"			"Soldier"	
 		"textAlignment"		"west"
 		"Command"			"select 3"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_soldier_inactive"
@@ -316,11 +316,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"PYRO"	
+		"labelText"			"Pyro"	
 		"textAlignment"		"west"
 		"Command"			"select 7"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_pyro_inactive"
@@ -391,11 +391,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"DEMOMAN"	
+		"labelText"			"Demoman"	
 		"textAlignment"		"west"
 		"Command"			"select 4"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_demo_inactive"
@@ -452,11 +452,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"HEAVY"	
+		"labelText"			"Heavy"	
 		"textAlignment"		"west"
 		"Command"			"select 6"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_heavy_inactive"
@@ -513,11 +513,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"ENGINEER"	
+		"labelText"			"Engineer"	
 		"textAlignment"		"west"
 		"Command"			"select 9"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_engineer_inactive"
@@ -588,11 +588,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"MEDIC"	
+		"labelText"			"Medic"	
 		"textAlignment"		"west"
 		"Command"			"select 5"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_medic_inactive"
@@ -649,11 +649,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"SNIPER"	
+		"labelText"			"Sniper"	
 		"textAlignment"		"west"
 		"Command"			"select 2"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_sniper_inactive"
@@ -710,11 +710,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"SPY"	
+		"labelText"			"Spy"	
 		"textAlignment"		"west"
 		"Command"			"select 8"
 		"Default"			"0"
-		"font"				"Heavy18"
+		"font"				"Product23Bold"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_spy_inactive"
@@ -823,7 +823,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"Product16"
 		"fgcolor"			"Blank"
 		"defaultFgColor_override" "Blank"
 		"armedFgColor_override" "Blank"
@@ -850,7 +850,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"Product16"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "White"
@@ -877,7 +877,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"Product16"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "White"
@@ -904,7 +904,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"Product16"
 		"fgcolor"			"White"
 		"defaultFgColor_override" "White"
 		"armedFgColor_override" "White"
@@ -930,7 +930,7 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"NoveMedium10"
+		"font"			"Product16"
 		"fgcolor"			"White"
 	}
 
@@ -1301,7 +1301,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1338,7 +1338,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1375,7 +1375,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1412,7 +1412,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1449,7 +1449,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1486,7 +1486,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1523,7 +1523,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1560,7 +1560,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}
 
@@ -1597,7 +1597,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"textAlignment"	"west"
-		"font"			"NoveMedium18"
+		"font"			"Product23Bold"
 		"fgcolor"		"BrightGray"
 	}								
 	
