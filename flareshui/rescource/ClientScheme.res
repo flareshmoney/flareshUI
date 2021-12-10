@@ -49,7 +49,7 @@ Scheme
       
         "Ammo"                 	"227 227 227 255"      	//Current clip
 		"AmmoReserve"          	"227 227 227 255"      	//Reserve clip
-        "AmmoLow"              	"142 142 142 255"      	//Low ammo count
+        "AmmoLow"              	"255 200 30 255"      	//Low ammo count
         
         "Health"               	"227 227 227 255"      	//Normal health color
         "Positive"             	"255 94 255 255"      	//Buffed HP     //blue buffed hp 0 148 255 255
@@ -556,7 +556,7 @@ Scheme
 	{
         /////////////////////
         //Shapes and Symbols
-        
+		
         "SymbolNo18"
 		{
 			"1"
@@ -674,7 +674,318 @@ Scheme
 		}
         /////////////////////
         //Custom Fonts
-    
+		
+		"Product9"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"9"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		
+		
+		"Product10"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"10"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		
+		"Product12"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"12"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		
+		"Product12Bold"
+		{
+			"1"
+			{
+				"name"										"Product Sans Bold"
+				"tall"										"12"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}	
+		
+		"Product16"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"16"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+
+		"Product17"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"17"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}		
+		
+		"Product18"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"18"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		
+		"Product18Bold"
+		{
+			"1"
+			{
+				"name"										"Product Sans Bold"
+				"tall"										"18"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}		
+		
+		
+		
+		"Product20"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"20"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		
+		"Product20Bold"
+		{
+			"1"
+			{
+				"name"										"Product Sans Bold"
+				"tall"										"20"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}	
+
+		"Product20Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"20"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}		
+		
+		"Product22"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"22"
+				"additive"									"0"
+				"antialias" 								"1"
+					
+			}
+		}
+		
+		"Product22Bold"
+		{
+			"1"
+			{
+				"name"										"Product Sans Bold"
+				"tall"										"22"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}
+		
+		"Product23Bold"
+		{
+			"1"
+			{
+				"name"										"Product Sans Bold"
+				"tall"										"23"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}
+		
+		"Product23"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"23"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}
+		
+		
+		"Product26Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"26"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
+		
+		
+		"Product26"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"26"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		
+		"Product30"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"30"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		
+		"Product30Bold"
+		{
+			"1"
+			{
+				"name"										"Product Sans Bold"
+				"tall"										"30"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}
+		
+		"Product55Bold"
+		{
+			"1"
+			{
+				"name"										"Product Sans Bold"
+				"tall"										"55"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}
+		
+		
+		"Product Sans"
+		{
+			"1"
+			{
+			    "name" "Product Sans"
+				"tall"		"54"		
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}			
+			
+		"Product Sans Bold"
+		{
+			"1"
+			{
+			    "name" "Product Sans Bold"
+				"tall"		"54"		
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}				
+			
+			
+			
+		"FolkPro-Bold"
+		{
+			"1"
+			{
+			    "name" "FolkPro-Bold"
+				"tall"		"54"		
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}			
+			
+			
+		"Arial Rounded MT"
+		{
+			"1"
+			{
+			    "name" "Arial Rounded MT"    
+				"tall"		"54"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+	
+	
+		"HandelGothic BT"
+		{
+			"1"
+			{
+			    "name" "HandelGothic BT"
+				"tall"		"54"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+	
+	
+		"Harabara"
+		{
+			"1"
+			{
+				"name"		"Harabara"
+				"tall"		"54"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+	
+	
 		"HeavyCaps59"
 		{
 			"1"
@@ -905,7 +1216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"NovecentoMedium"
+				"name"			"Product18"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -8420,6 +8731,44 @@ Scheme
 					"offset" "0 0"
 				}
 			}
+			
+		BlackTransparent70
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/thumbnails/panels/Material_Transparent_Black_70"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
+			"draw_corner_width"		"8"
+			"draw_corner_height" 	"8"
+		}
+		
+		BlueSolid
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/thumbnails/panels/Panel_Blue"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
+			"draw_corner_width"		"8"
+			"draw_corner_height" 	"8"
+		}
+		
+		RedSolid
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/thumbnails/panels/Panel_Red"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
+			"draw_corner_width"		"8"
+			"draw_corner_height" 	"8"
+		}
+			
+			
 		}
 	}
 	
@@ -8537,6 +8886,8 @@ Scheme
 			"font" "resource/fonts/MediumNumbers.ttf"
 			"name" "MediumNumbers"
 		}
+		
+		//Health and primary ammo font.
 		"20"
 		{
 			"font" "resource/fonts/BoldNumbers.ttf"
@@ -8557,5 +8908,42 @@ Scheme
 			"font" "resource/fonts/HeavyCaps.ttf"
 			"name" "HeavyCaps"  
 		}
+		
+		"24" 
+		{
+			"font" "resource/fonts/HANDGOTN.TTF"
+			"name" "HandelGothic"
+		}
+		
+		"25"
+		{
+			"font" "resource/fonts/Harabara.ttf"
+			"name" "Harabara"    
+		}
+		
+		"26"
+		{
+			"font" "resource/fonts/Arial_Rounded_MT.ttf"
+			"name" "Arial Rounded MT"    
+		}
+		
+		"27"
+		{
+			"font" "resource/fonts/A-OTF Folk Pro B.otf
+			"name" "FolkPro-Bold"
+		}
+		
+		"28" 
+		{
+			"font" 		"resource/fonts/ProductSans-Regular.ttf"
+			"name" 		"Product Sans"
+		}		
+
+		"29" 
+		{
+			"font" 		"resource/fonts/Product Sans Bold.ttf"
+			"name" 		"Product Sans Bold"
+		}
 	}
 }
+    

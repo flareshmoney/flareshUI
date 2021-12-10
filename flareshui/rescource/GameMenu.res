@@ -107,8 +107,8 @@
 	"HomeServer"
 	{
 		"label" 		"7"
-		"command" 		"map tr_arena_rc2"
-        "tooltip" 		"HOME SERVER"
+		"command"       "engine echo  flareshui V2.0 Made by flareshmoney."
+        "tooltip" 		"flareshui"
 		"subimage" 		""
 	}
 }
