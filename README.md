@@ -57,6 +57,7 @@ Get in contact with me if you want me to delete your hud elements.
 + Added a team colored background to Engineer's buildings (due to a visibility issue).
 + Moved and made Engineer's metal counter bigger.
 + Fixed Kill freeze pannel, now in the low center of the screen. (file from Flamehud)
++ Fixed HTML's not showing ( example: !log )
 
 # Minor:
 + Added new backgrounds to text that needed them due to visibility issues.
