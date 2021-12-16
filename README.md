@@ -24,7 +24,7 @@ Get in contact with me if you want me to delete your hud elements.
 + Names on the Matchstatus (where your team's classes are displayed)
 + Custom crosshairs
 + Multible SpectaterUI's to choose from.
-+ Removed annoying backgrounds from yahud.
+
 
 
 
@@ -39,6 +39,14 @@ Get in contact with me if you want me to delete your hud elements.
 + Time released:     10/12/2021
 
 + Last time updated: 10/12/2021
+
+
+# Known Issues:
++ Slight visibility issues on mp_winlimit.
++ Pyro jetpack meter not being on the same ypos.
++ Some hudelements being 1 pixel off.
++ [Unknown] Being displayed where the map name should be.
++ Respawn timer colliding with other hud elements
 
 
 
@@ -69,15 +77,6 @@ Get in contact with me if you want me to delete your hud elements.
 + Moved top Spectator Tournament more to the center to compensate for the smaller matchstatus
 + Moved PL UI slighty downwards
 + Removed reason for winning on the win panel as it caused several minor issues.
-
-# Known Issues:
-+ Slight visibility issues on mp_winlimit.
-+ Pyro jetpack meter not being on the same ypos.
-+ Some hudelements being 1 pixel off.
-+ [Unknown] Being displayed where the map name should be.
-+ Respawn timer colliding with other hud elements
-
-
 
 # Every changelog from V1.0a to V2.0a
 
