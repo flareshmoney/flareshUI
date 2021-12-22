@@ -49,7 +49,7 @@ Scheme
       
         "Ammo"                 	"227 227 227 255"      	//Current clip
 		"AmmoReserve"          	"227 227 227 255"      	//Reserve clip
-        "AmmoLow"              	"255 200 30 255"      	//Low ammo count
+        "AmmoLow"              	"255 70  70  255"      	//Low ammo count
         
         "Health"               	"227 227 227 255"      	//Normal health color
         "Positive"             	"255 94 255 255"      	//Buffed HP     //blue buffed hp 0 148 255 255
