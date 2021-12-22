@@ -416,6 +416,7 @@
 		}
 	}
 	
+
 	"BlueTeamPlayerCount"
 	{
 		"ControlName"		"CExLabel"
@@ -425,12 +426,12 @@
 		"textAlignment"		"west"
 		"zpos"			"5"
 		
-		"xpos"			"c-150"
+		"xpos"			"c-110"
 		"ypos"			"c-155"
 		"wide"			"100"
 		"tall"			"20"
 		
-		"xpos_minmode"			"c-160"
+		"xpos_minmode"			"c-110"
 		"ypos_minmode"			"c-155"
 		"wide_minmode"			"100"
 		"tall_minmode"			"20"
@@ -456,12 +457,12 @@
 		"zpos"			"4"
 		"fgcolor"		"0 0 0 255"
 		
-		"xpos"			"c-149"
+		"xpos"			"c-109"
 		"ypos"			"c-154"
 		"wide"			"100"
 		"tall"			"20"
 		
-		"xpos_minmode"			"c-159"
+		"xpos_minmode"			"c-109"
 		"ypos_minmode"			"c-154"
 		"wide_minmode"			"100"
 		"tall_minmode"			"20"
@@ -610,12 +611,12 @@
 		"textAlignment"		"east"
 		"zpos"			"5"
 		
-		"xpos"			"c50"
+		"xpos"			"c110"
 		"ypos"			"c-155"
 		"wide"			"100"
 		"tall"			"20"
 		
-		"xpos_minmode"			"c-160"
+		"xpos_minmode"			"c-110"
 		"ypos_minmode"			"c65"
 		"wide_minmode"			"100"
 		"tall_minmode"			"20"
@@ -642,12 +643,12 @@
 		"zpos"			"4"
 		"fgcolor"		"0 0 0 255"
 		
-		"xpos"			"c51"
+		"xpos"			"c111"
 		"ypos"			"c-154"
 		"wide"			"100"
 		"tall"			"20"
 		
-		"xpos_minmode"			"c-159"
+		"xpos_minmode"			"c-109"
 		"ypos_minmode"			"c66"
 		"wide_minmode"			"100"
 		"tall_minmode"			"20"
@@ -664,34 +665,6 @@
 		}
 	}
 	
-	"ServerLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ServerLabel"
-		"font"			"Product12"
-		"labelText"		"%server%"
-		"textAlignment"		"west"
-		"xpos"			"c-255"
-		"ypos"			"c-170"
-		"wide"			"255"
-		"tall"			"20"
-		
-		"xpos_minmode"			"c-265"
-		"ypos_minmode"			"c-165"
-		"wide_minmode"			"255"
-		"tall_minmode"			"10"
-		
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"	[$WIN32]
-		"enabled"		"1"
-		
-		if_mvm
-		{
-			"xpos" 			"c-275"
-			"ypos"			"65"
-		}
-	}
 	"TimerBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -992,13 +965,13 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"mapname"
-		"font"			"Product10"
+		"font"			"Product12bold"
 		"labelText"		"%mapname%"
-		"textAlignment" "center"
-		"xpos"			"c-215"
-		"ypos"			"r17"
+		"textAlignment"		"center"
+		"xpos"			"c-444"
+		"ypos"			"40"
 		"zpos"			"3"
-		"wide"			"71"
+		"wide"			"101"
 		"tall"			"25"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -1006,7 +979,6 @@
 		"enabled"		"1"
 		"wrap"			"1"
 		"centerwrap"	"1"
-		"fgcolor"		"White"
 
 		"if_mvm"
 		{
@@ -1026,17 +998,17 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabelNew"
-		"font"			"Product18"
+		"font"			"Product12"
 		"labelText"		"%server%"
-		"textAlignment"		"east"
-		"xpos"			"415"
-		"ypos"			"375"
+		"textAlignment"		"west"
+		"xpos"			"c-425"
+		"ypos"			"35"
 		"zpos"			"3"
 		"wide"			"165"
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		
 		if_mvm

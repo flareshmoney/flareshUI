@@ -150,8 +150,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-34"
-		"ypos"			"r37"
+		"xpos"			"c-38"
+		"ypos"			"r35"
 		"zpos"			"-1"
 		"wide"			"30"
 		"tall"			"17"
@@ -159,7 +159,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"MediumNumbers20"
+		"font"			"Product22bold"
 		"fgcolor"		"White"
 		
 		"if_hybrid"
@@ -181,8 +181,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
-		"xpos"			"c4"
-		"ypos"			"r37"
+		"xpos"			"c8"
+		"ypos"			"r35"
 		"zpos"			"-1"
 		"wide"			"30"
 		"tall"			"17"
@@ -190,7 +190,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"MediumNumbers20"
+		"font"			"Product22bold"
 		"fgcolor"		"White"	
 		
 		"if_hybrid"
@@ -255,7 +255,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"NoveMedium10"
+		"font"			"Product12"
 		"fgcolor"		"White"
 		
 		"if_hybrid"
@@ -289,12 +289,13 @@
 		"scaleImage"	"1"	
 	}	
 		
+	//flag tracker round thing
 	"BlueFlag"
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
 		"xpos"			"c-130"
-		"ypos"			"r90"
+		"ypos"			"r94"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
@@ -337,7 +338,7 @@
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"RedFlag"
 		"xpos"			"c-32"
-		"ypos"			"r90"
+		"ypos"			"r94"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"

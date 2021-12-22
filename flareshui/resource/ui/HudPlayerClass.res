@@ -188,12 +188,12 @@
 			}
 			"Heavy"
 			{
-				"fov"			"17"
+				"fov"			"18"
 				"angles_x"		"0"
 				"angles_y"		"160"
 				"angles_z"		"0"
 				"origin_x"		"170"
-				"origin_y"		"-10"
+				"origin_y"		"-6"
 				"origin_z"		"-57"
 			}
 			"Pyro"

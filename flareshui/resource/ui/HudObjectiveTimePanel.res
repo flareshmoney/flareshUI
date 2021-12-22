@@ -5,10 +5,10 @@
 		"ControlName"			"ImagePanel"
 		"fieldName"				"TimePanelBG"
 		"xpos"					"c15"
-		"ypos"					"6"
+		"ypos"					"5"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"13"
+		"tall"					"14"
 		"visible"				"1"
 		"enabled"				"1"
 		"fillcolor"		"0 0 0 200"
@@ -20,9 +20,7 @@
 
 	 "if_match"  //tf_use_match_hud 1
 	 {
-	    "ypos"                  "14"
-		"visible"				"1"
-		"enabled"				"1"
+	    "ypos"                  "13"
 			
 	 }
     }
@@ -31,7 +29,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerTimeLimitLabel"
-		"xpos"			"c15"
+		"xpos"			"c16"
 		"ypos"			"19"
 		"zpos"			"17"
 		"wide"			"38"
@@ -48,7 +46,6 @@
 		
 		if_match
 		{
-			"xpos"		"c16"
 			"ypos"		"27"
 		}
 	}
@@ -61,14 +58,13 @@
 		"ypos"			"19"
 		"zpos"			"16"
 		"wide"			"40"
-		"tall"			"13"
+		"tall"			"14"
 		"visible"		"0"
 		"enabled"		"0"
 		"fillcolor"		"0 0 0 150"
 		
 		if_match
 		{
-			"xpos"		"c15"
 			"ypos"		"27"
 		}
 	}
@@ -133,7 +129,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"OvertimeLabel"
 		"xpos"			"c15"
-		"ypos"			"29"
+		"ypos"			"31"
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"19"
@@ -219,18 +215,18 @@
 		
 		if_match
 		{
-				"ypos"			"23"
+				"ypos"			"24"
 		}
 	}	
 	"SetupBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SetupBG"
-		"xpos"			"c16"
+		"xpos"			"c15"
 		"ypos"			"19"
 		"zpos"			"1"
-		"wide"			"38"
-		"tall"			"12"
+		"wide"			"40"
+		"tall"			"14"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 150"	

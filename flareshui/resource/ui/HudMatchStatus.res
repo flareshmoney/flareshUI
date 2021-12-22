@@ -210,7 +210,7 @@
 		
 		"starting_width"						"0"
 		"width_per_round"						"0"
-		"indicator_start_offset"				"3"
+		"indicator_start_offset"				"4"
 		"indicator_max_wide"					"29"
 		
 		"RoundIndicatorPanel_kv"
@@ -244,10 +244,6 @@
 			"scaleimage"						"1"
 		}
 		
-		"Background"
-		{
-			"ypos"								"9999"
-		}
 	}
 	
 	"BGFrame"
@@ -339,7 +335,7 @@
 		{
 			"xpos"				"-35"
 			"zpos"				"-10"
-			"ypos"				"-8"
+			"ypos"				"-7"
 		}
 		
 
@@ -367,7 +363,6 @@
 			{
 			    "ypos"			"10"
 			    "xpos"			"c-5"
-				"font"		"Product18"
 			}
 			
 		}

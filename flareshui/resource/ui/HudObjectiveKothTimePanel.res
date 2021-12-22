@@ -5,12 +5,12 @@
 	{
 		if_match
 		{
-		    //"ypos"      "50"
-			"zpos"		"6"
+		    "ypos"      "0"
+			"zpos"		"-6"
 		}
 	}
 
-    //Blue's Timer
+    //Blue's Timer Label 
 	"BlueTimer"
 	{
 		"ControlName"		"CTFHudTimeStatus"
@@ -48,7 +48,7 @@
 		}
 	}
 
-    //Red's timer
+    //Red's timer Label 
 	"RedTimer"
 	{
 		"ControlName"		"CTFHudTimeStatus"
@@ -103,8 +103,10 @@
 		
 		if_match
 		{
+			"xpos"          "44"
 		    "fillcolor"		"0 0 0 200"
-			"tall"      "13"
+			"wide"          "72"
+			"tall"      "14"
 		    "ypos"      "6"
 			"visible"	"1"
 		}
@@ -123,12 +125,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		
+		
+		//Now works under REDBG as it's easier to work on 1 element instead of 2
 		if_match
 		{
 		    "fillcolor"		"0 0 0 200"
 			"tall"      "13"
 		    "ypos"      "6"
-			"visible"	"1"
+			"visible"	"0"
 		}
 	}
 	
