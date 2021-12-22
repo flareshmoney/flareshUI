@@ -35,10 +35,24 @@ Get in contact with me if you want me to delete your hud elements.
 
 
 
-# Current Version: V2.0a
+# Current Version: V2.1a
 + Time released:     10/12/2021
 
-+ Last time updated: 10/12/2021
++ Last time updated: 22/12/2021
+
+# Changelog Version V2.0a -> V2.1a
+
++ Changes the low ammo color to be a red pickish color.
++ Made the Server Time and Round Time backgrounds both a bit larger.
++ Made the Setup BG matching to the Round Time.
++ Moved playercount on the scoreboard to the right.
++ Moved Server name on the scoreboard to the top left
++ Moved Map name on the scoreboard to the top left.
++ Updated CTF font.
++ Fixed slight visibility issues with the CTF flag tracker.
++ Fixed KOTH hud overlapping with Hudmatchstatus by one pixel.
++ Reverted changes to SpectatorUI respawn label when in game
+
 
 
 # Known Issues:
