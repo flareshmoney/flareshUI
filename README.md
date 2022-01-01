@@ -40,18 +40,16 @@ Get in contact with me if you want me to delete your hud elements.
 
 + Last time updated: 22/12/2021
 
-# Changelog Version V2.0a -> V2.1a
+# Changelog Version V2.1a -> V2.2a
 
-+ Changes the low ammo color to be a red pickish color.
-+ Made the Server Time and Round Time backgrounds both a bit larger.
-+ Made the Setup BG matching to the Round Time.
-+ Moved playercount on the scoreboard to the right.
-+ Moved Server name on the scoreboard to the top left
-+ Moved Map name on the scoreboard to the top left.
-+ Updated CTF font.
-+ Fixed slight visibility issues with the CTF flag tracker.
-+ Fixed KOTH hud overlapping with Hudmatchstatus by one pixel.
-+ Reverted changes to SpectatorUI respawn label when in game
++ Added a "50%" marker on Demo's Sticky / Loose cannon charge. (Not exactly in the middle, but can't be bothered rn lol)
++ Made the HTML message (example: !log) a bit bigger.
++ Updated and fixed Passtime UI.
++ Moved the kill feed a few units to the right.
++ Moved the Winpanel more to the bottom.
++ Fixed Pyro jetpack UI.
++ Removed bottom line on the "HudItemEffectMeter"
+
 
 
 
@@ -72,7 +70,7 @@ Get in contact with me if you want me to delete your hud elements.
 + New SpectatorTournamentUI's, Located in the "Customizations" folder.
 + Made Matchstatus more inline with TF_use_match_hud 0.
 + Made KOTH UI more inline with casting huds (TF_use_match_hud 1)
-+ Recolored the low ammo color from gray to yellow
++ Recolored the low ammo color from gray to pinkish red.
 + Improved TF_use_match_hud 0 round time.
 + Improved TF_use_match_hud 0 Koth timer.
 + Added a team colored background to Engineer's buildings (due to a visibility issue).
