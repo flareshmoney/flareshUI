@@ -88,7 +88,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"		        "AmmoReserve"
+		"fgcolor"		        "Negative"
 		"font"				    "Product20"
 	}
 	
@@ -96,8 +96,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"			        "c189"	
-		"ypos"			        "348"
+		"xpos"			        "c190"	
+		"ypos"			        "349"
 		"zpos"					"2"
 		"wide"					"93"
 		"tall"					"24"	

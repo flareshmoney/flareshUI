@@ -17,10 +17,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BlueBG"
-		"xpos"			"c-111"
-		"ypos"			"r61"
+		"xpos"			"c-31"
+		"ypos"			"r72"
         "zpos"          "-4"
-		"wide"			"110"
+		"wide"			"30" //110
 		"tall"			"16"
 		"fillcolor"		"10 128 221 150"
 		"visible"		"1"
@@ -31,8 +31,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-168"
-		"ypos"			"r71"
+		"xpos"			"c-93"
+		"ypos"			"r81"
 		"zpos"			"8"
 		"wide"			"80"
 		"tall"			"34"
@@ -40,7 +40,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"NoveMedium20"
+		"font"			"Product22Bold"
 		"fgcolor"		"255 255 255 255"
 	}	
 		
@@ -48,16 +48,16 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScoreShadow"
-		"xpos"			"-1"
+		"xpos"			"-2"
 		"ypos"			"-1"
 		"zpos"			"7"
 		"wide"			"80"
 		"tall"			"35"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"NoveMedium24"
+		"font"			"Product22Bold"
 		"fgcolor"		"0 0 0 255"
 		
 		"pin_to_sibling"		"BlueScore"
@@ -70,9 +70,9 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"RedBG"
 		"xpos"			"c-1"
-		"ypos"			"r61"
+		"ypos"			"r72"
         "zpos"          "-4"
-		"wide"			"112"
+		"wide"			"30" //112
 		"tall"			"16"
 		"fillcolor"		"245 51 62 150"
 		"visible"		"1"
@@ -83,8 +83,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
-		"xpos"			"c88"
-		"ypos"			"r71"
+		"xpos"			"c8"
+		"ypos"			"r81"
 		"zpos"			"8"
 		"wide"			"80"
 		"tall"			"34"
@@ -92,7 +92,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"NoveMedium20"
+		"font"			"Product22Bold"
 		"fgcolor"		"255 255 255 255"	
 	}	
 		
@@ -100,16 +100,16 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScoreShadow"
-		"xpos"			"-1"
+		"xpos"			"-2"
 		"ypos"			"-1"
 		"zpos"			"7"
 		"wide"			"80"
 		"tall"			"35"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
-		"font"			"NoveMedium24"
+		"font"			"Product22Bold"
 		"fgcolor"		"0 0 0 255"
 		
 		"pin_to_sibling"		"RedScore"

@@ -9,7 +9,7 @@
 		"xpos"				"c-70" 
 		"ypos"				"r111"
 		"wide"			"140"
-		"tall"			"23"
+		"tall"			"22"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -37,8 +37,8 @@
 		"enabled"			"0"
 		"labelText"			"#TF_Ball"
 		"fgcolor_override" 	"MeterText"
-		"textAlignment"		"center"
-		"font"				"NoveLight8"
+		"textAlignment"		"Center"
+		"font"				"Novelight8"
 	}
 
 	"ItemEffectMeter"
@@ -50,7 +50,7 @@
 		"ypos"			"16"
 		"zpos"			"2"
 		"wide"			"120"
-		"tall"			"6"
+		"tall"			"7"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -60,6 +60,8 @@
 		"brighttext"	"0"
 	}
 
+  
+    //Markers
 	"ItemEffectMeter25"
 	{
 		"ControlName"	"ImagePanel"
@@ -101,6 +103,8 @@
 		"enabled"	"1"
 		"fillcolor"	"0 0 0 255"
 	}
+	
+	//Bottom thing
 
 	"ItemEffectColor25"
 	{
@@ -111,7 +115,7 @@
 		"zpos"		"2"
 		"wide"		"30"
 		"tall"		"2"
-		"visible"	"1"
+		"visible"	"0"
 		"enabled"	"1"
 		"fillcolor"	"255 255 255 64"
 	}
@@ -125,7 +129,7 @@
 		"zpos"		"3"
 		"wide"		"30"
 		"tall"		"2"
-		"visible"	"1"
+		"visible"	"0"
 		"enabled"	"1"
 		"fillcolor"	"255 255 255 96"
 	}
@@ -139,7 +143,7 @@
 		"zpos"		"3"
 		"wide"		"31"
 		"tall"		"2"
-		"visible"	"1"
+		"visible"	"0"
 		"enabled"	"1"
 		"fillcolor"	"255 255 255 160"
 	}
@@ -153,7 +157,7 @@
 		"zpos"		"3"
 		"wide"		"30"
 		"tall"		"2"
-		"visible"	"1"
+		"visible"	"0"
 		"enabled"	"1"
 		"fillcolor"	"255 255 255 208"
 	}

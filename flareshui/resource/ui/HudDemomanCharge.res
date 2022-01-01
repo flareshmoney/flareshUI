@@ -36,5 +36,20 @@
 		"fgcolor_override" "White"
 		"dulltext"		"0"
 		"brighttext"	"0"
-	}					
+	}
+	
+	"ItemEffectMeter50"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"	"ItemEffectMeter50"
+		"xpos"		"60"
+		"ypos"		"3"
+		"zpos"		"3"
+		"wide"		"2"
+		"tall"		"6"
+		"visible"	"1"
+		"enabled"	"1"
+		"fillcolor"	"0 0 0 255"
+	}
+	
 }
