@@ -35,10 +35,10 @@ Get in contact with me if you want me to delete your hud elements.
 
 
 
-# Current Version: V2.1a
+# Current Version: V2.2a
 + Time released:     10/12/2021
 
-+ Last time updated: 22/12/2021
++ Last time updated: 01/01/2022
 
 # Changelog Version V2.1a -> V2.2a
 
