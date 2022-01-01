@@ -55,7 +55,6 @@ Get in contact with me if you want me to delete your hud elements.
 
 # Known Issues:
 + Slight visibility issues on mp_winlimit.
-+ Pyro jetpack meter not being on the same ypos.
 + Some hudelements being 1 pixel off.
 + Respawn timer colliding with other hud elements
 
