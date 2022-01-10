@@ -1,8 +1,9 @@
 "Resource/UI/SpectatorTournament.res"
-//Hud maker here,
-//This was suggested by joe, it does not support HL.
-//
-
+//Hello this huds creator here, I wanted to put the spechud on top right next to the time, this introduced some issues:
+//when specing HL the last player gets cut off
+//someone being hurt is harder to see on the RED team.
+//contact me if you know the fixes, if it really bothers you you can change the names of "SpectatorTournament - left" to just "SpectatorTournament"
+//Note this is only for spectating and watching STV demos
 {
 	"specgui"
 	{
@@ -15,42 +16,39 @@
 		"enabled"		"0"
 				
 		 //Blu Team
-		"team1_player_base_offset_x"		"00" //86
-		"team1_player_base_y"				"320"
-		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"-26"
+		"team1_player_base_offset_x"		"-87" //86
+		"team1_player_base_y"				"-11"
+		"team1_player_delta_x"				"-47"
+		"team1_player_delta_y"				"0"
 		
 		 //Red Team 
-		"team2_player_base_offset_x"		"0" //36
-		"team2_player_base_y"				"10"
-		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"26"
+		"team2_player_base_offset_x"		"37" //36
+		"team2_player_base_y"				"-11"
+		"team2_player_delta_x"				"47"
+		"team2_player_delta_y"				"0"
 
 		
 		
-		//Background
 		"playerpanels_kv"
 		{
 			"visible"		"1"
 			"wide"			"50"
-			"tall"			"26"
+			"tall"			"33"
 			"zpos"			"50"
 			
 
 			"color_ready"	"0 255 0 220"
 			"color_notready"	"0 0 0 220"
-			
-
-            //player names			
+										  			
 			"playername"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
 				"font"		    "UltraSmall"   //Meduim10 
-				"xpos"			"1"
-				"ypos"			"16"
+				"xpos"			"3"
+				"ypos"			"24"
 				"zpos"			"5"
-				"wide"			"60"
+				"wide"			"50"
 				"tall"			"8"
 				"autoResize"	"1"
 				"pinCorner"		"1"
@@ -68,13 +66,13 @@
 				}
 			}
 			
-			//class icon
+			
 			"classimage"
 			{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
 				"xpos"			"3"
-				"ypos"			"1"
+				"ypos"			"10"
 				"zpos"			"2"
 				"wide"			"17"
 				"tall"			"17"
@@ -119,7 +117,7 @@
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
 				"xpos"				"20"
-				"ypos"				"0" 
+				"ypos"				"11" 
 				"zpos"				"3"
 				"wide"				"162"
 				"tall"				"20"
@@ -187,7 +185,7 @@
 				"fieldName"		"respawntime"
 				"font"			"DefaultSmall"
 				"xpos"			"30"
-				"ypos"			"6"
+				"ypos"			"15"
 				"zpos"			"5"
 				"wide"			"23"
 				"tall"			"10"
@@ -208,9 +206,9 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"		"Product12"
+				"font"		"Product10"
 				"xpos"			"0"
-				"ypos"			"4"
+				"ypos"			"14"
 				"zpos"			"6"
 				"wide"			"25"
 				"tall"			"15"
