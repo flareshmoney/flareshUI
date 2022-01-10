@@ -35,26 +35,32 @@ Get in contact with me if you want me to delete your hud elements.
 
 
 
-# Current Version: V2.2a
+# Current Version: V2.3a
 + Time released:     10/12/2021
 
-+ Last time updated: 01/01/2022
++ Last time updated: 10/01/2022
 
-# Changelog Version V2.1a -> V2.2a
+# Changelog Version V2.2a -> V2.3a
 
-+ Added a "50%" marker on Demo's Sticky / Loose cannon charge. (Not exactly in the middle, but can't be bothered rn lol)
-+ Made the HTML message (example: !log) a bit bigger.
-+ Updated and fixed Passtime UI.
-+ Moved the kill feed a few units to the right.
-+ Moved the Winpanel more to the bottom.
-+ Fixed Pyro jetpack UI.
-+ Removed bottom line on the "HudItemEffectMeter"
++ Added a transparent background to the StopwatchUI.
++ Added a new main menu background. (Contact me if there are any issues with me using / editing this image)
++ Added support for Mr Slin's Enemy Uber Tracker v2. (Available in Customizations, lag when pressing c :/)
++ Moved Medic's ubercharge count to be under the crosshair.
++ Updated SpectatorTournamentUI (Traditional) to be more unique and have more team coloring.
++ Updated Tournament Respawn to be a bit lower to compensate for the StopwatchUI.
++ Updated Class Selection to have a transparent background and other stuffs.
++ Updated TargetID to include proper team coloring
++ Changed Red's round counter image to be a slightly lighter of color. (Now a pinkish color)
++ Decreased Min and Max width of the damage indicator by 3. (23 -> 20)
++ Fixed Hudmatchstatus inconsistencies.
++ Fixed font issues with the Spy dusguise menu.
+
+
 
 
 
 
 # Known Issues:
-+ Slight visibility issues on mp_winlimit.
 + Some hudelements being 1 pixel off.
 + Respawn timer colliding with other hud elements
 
