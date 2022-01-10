@@ -1,67 +1,75 @@
 "Resource/UI/TargetID.res"
 {
+
+	"TargetBG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"TargetBG"
+		"xpos"				"0"
+		"ypos"				"25"
+		"zpos"				"0"
+		"wide"				"640"
+		"tall"				"20"
+		"visible"			"0"
+		"enabled"			"1"
+		"fillcolor"			"TransparentBlack"
+	}
+
 	"TargetIDBG"
 	{
 		"ControlName"		"CTFImagePanel"
-		"fieldName"		"TargetIDBG"
-		"xpos"			"0"
-		"ypos"			"15"
-		"zpos"			"-1"
-		"wide"			"252"
-		"tall"	 		"0"             //50
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"replay/thumbnails/bg_black"
-		"scaleImage"		"1"
-		"teambg_2"      "replay/thumbnails/bg_black"
-        "teambg_3"      "replay/thumbnails/bg_black"
-		
-		"src_corner_height"		"23"
-		"src_corner_width"		"23"
-		"draw_corner_width"		"50"
-		"draw_corner_height" 	"10"	
-	}
-	
-	//Team bl player color
-	"TargetIDBG_Spec_Blue"
-	{
-		"ControlName"		"ScalableImagePanel"
-		"fieldName"		"TargetIDBG_Spec_Blue"
-		"xpos"			"2"
-		"ypos"			"47"
-		"zpos"			"-2"
-		"wide"			"640"
-		"tall"	 		"50"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_blue_bg"
-		
+		"fieldName"			"TargetIDBG"
+		"xpos"				"2"
+		"ypos"				"47"
+		"zpos"				"-3"
+		"wide"				"f0"
+		"tall"	 			"35"
+		"visible"			"1"
+		"enabled"			"1"
+		//"image"				"../hud/color_panel_brown"
+		//"scaleImage"		"1"
+		"teambg_1"			"../hud/color_panel_brown"
+		"teambg_2"			"../hud/objectives_timepanel_red_bg"
+		"teambg_3"			"../hud/objectives_timepanel_blue_bg"
+
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
 		"draw_corner_width"		"0"
 		"draw_corner_height" 	"0"
 	}
 	
-	//Team red player color
+	"TargetIDBG_Spec_Blue"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"			"TargetIDBG_Spec_Blue"
+		"xpos"				"2"
+		"ypos"				"47"
+		"zpos"				"-3"
+		"wide"				"f0"
+		"tall"	 			"35"
+		"visible"			"0"
+		"enabled"			"1"
+		"fillcolor"			"Blue"
+
+		"src_corner_height"		"23"
+		"src_corner_width"		"23"
+		"draw_corner_width"		"0"
+		"draw_corner_height" 	"0"
+	}
+
 	"TargetIDBG_Spec_Red"
 	{
-		"ControlName"		"ScalableImagePanel"
-		"fieldName"		"TargetIDBG_Spec_Red"
-		"xpos"			"2"
-		"ypos"			"47"
-		"zpos"			"-2"
-		"wide"			"640"
-		"tall"	 		"50"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_red_bg"
-		
+		"ControlName"		"ImagePanel"
+		"fieldName"			"TargetIDBG_Spec_Red"
+		"xpos"				"2"
+		"ypos"				"47"
+		"zpos"				"-3"
+		"wide"				"f0"
+		"tall"	 			"35"
+		"visible"			"0"
+		"enabled"			"1"
+		"fillcolor"			"Red"
+
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
 		"draw_corner_width"		"0"

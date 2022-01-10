@@ -56,7 +56,7 @@
 		"textAlignment"	"east"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"MediumNumbers12"
+		"font"			"Product12"
 		"fgcolor"		"UberMeter%"
 	}
     "UberLabel"
@@ -105,8 +105,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
-		"xpos"			"c101"
-		"ypos"			"335"	
+		"xpos"			"c-65"
+		"ypos"			"245"	
 		"zpos"			"2"
 		"wide"			"140"	
 		"tall"			"44"	
@@ -116,18 +116,18 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"west"
+		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Product55Bold"
-		"fgcolor"		"White"
+		"font"			"Product23Bold"
+		"fgcolor"		"0 255 144 255"
 	}
     "ChargeLabelShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
-		"xpos"			"c102"
-		"ypos"			"336"	
+		"xpos"			"c-64"
+		"ypos"			"246"	
 		"zpos"			"-2"
 		"wide"			"140"	
 		"tall"			"44"	
@@ -137,12 +137,15 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_UberchargeMinHUD"
-		"textAlignment"	"west"
+		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Product55Bold"
+		"font"			"Product23Bold"
 		"fgcolor"		"HudShadow"
 	}
+	
+
+	
 	"IndividualChargesLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -276,5 +279,5 @@
 		"pin_to_sibling"		"ResistIconAnchor"
 		"pin_corner_to_sibling"		"1"
 		"pin_to_sibling_corner"		"1"
-	}			
-}
+	}
+	

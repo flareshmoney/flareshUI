@@ -25,7 +25,7 @@
 		
 		if_match
 		{
-		    "ypos"      "4"
+		    "ypos"      "5"
 		}
 		
 		
@@ -63,7 +63,7 @@
 		
 		if_match
 		{
-		    "ypos"      "4"
+		    "ypos"      "5"
 		}
 
 		
@@ -106,7 +106,7 @@
 			"xpos"          "44"
 		    "fillcolor"		"0 0 0 200"
 			"wide"          "72"
-			"tall"      "14"
+			"tall"      "15"
 		    "ypos"      "6"
 			"visible"	"1"
 		}

@@ -4,16 +4,16 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudStopWatchBG"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"c-36"
+		"ypos"			"34"
 		"zpos"			"-1"
-		"wide"			"120"
+		"wide"			"80"
 		"tall"			"15"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"FlameTransBlack"
+		"fillcolor"		"0 0 0 150"
 	}
 
 
@@ -41,8 +41,8 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"c-45"
-		"ypos"				"32"	[$WIN32]
+		"xpos"				"c-40"
+		"ypos"				"34"	[$WIN32]
 		"zpos"				"1"
 		"wide"				"45"
 		"tall"				"15"
@@ -74,8 +74,8 @@
 		"font"			"Product16"
 		"labelText"		"%scoretobeat%"
 		"textAlignment"		"east"
-		"xpos"			"c-5"
-		"ypos"			"32"
+		"xpos"			"c-10"
+		"ypos"			"34"
 		"zpos"			"4"
 		"wide"			"20"
 		"tall"			"15"
@@ -93,8 +93,8 @@
 		"font"			"Product12"
 		"labelText"		"%pointslabel%"
 		"textAlignment"		"west"
-		"xpos"			"c20"
-		"ypos"			"33"
+		"xpos"			"c15"
+		"ypos"			"35"
 		"zpos"			"4"
 		"wide"			"35"
 		"tall"			"15"
@@ -112,7 +112,7 @@
 		"font"			"HudFontSmallerest"
 		"labelText"		"%stopwatchlabel%"
 		"textAlignment"		"center"
-		"xpos"			"15"
+		"xpos"			"c5"
 		"ypos"			"1"
 		"zpos"			"4"
 		"wide"			"105"
@@ -124,19 +124,20 @@
 		"wrap"			"1"
 	}
 
+    //Game crashes when you remove this lololol
 	"HudStopWatchDescriptionBG"
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"HudStopWatchDescriptionBG"
-		"xpos"			"0"
+		"xpos"			"-50"
 		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"40"
+		"tall"			"40"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"
 
 
