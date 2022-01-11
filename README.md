@@ -62,7 +62,7 @@ Get in contact with me if you want me to delete your hud elements.
 
 # Known Issues:
 + Some hudelements being 1 pixel off.
-+ Respawn timer colliding with other hud elements
++ Respawn timer colliding with other hud elements. (In Casual)
 
 
 
