@@ -39,23 +39,24 @@ Get in contact with me if you want me to delete your hud elements.
 # Current Version: V2.3a
 + Time released:     10/12/2021
 
-+ Last time updated: 10/01/2022
++ Last time updated: 14/01/2022
 
-# Changelog Version V2.2a -> V2.3a
+# Changelog: Version V2.3a -> V2.4a
 
-+ Added a transparent background to the StopwatchUI.
-+ Added a new main menu background. (Contact me if there are any issues with me using / editing this image)
-+ Added support for Mr Slin's Enemy Uber Tracker v2. (Available in Customizations, lag when pressing c :/)
-+ Moved Medic's ubercharge count to be under the crosshair.
-+ Updated SpectatorTournamentUI (Traditional) to be more unique and have more team coloring.
-+ Updated Tournament Respawn to be a bit lower to compensate for the StopwatchUI.
-+ Updated Class Selection to have a transparent background and other stuffs.
-+ Updated TargetID to include proper team coloring
-+ Changed Red's round counter image to be a slightly lighter of color. (Now a pinkish color)
-+ Decreased Min and Max width of the damage indicator by 3. (23 -> 20)
-+ Fixed Hudmatchstatus inconsistencies.
-+ Fixed font issues with the Spy dusguise menu.
-
++ Added a imgur album.
++ Added shadow text to Spectator UI.
++ Added new background colors. (Purple, Blue, Pink)
++ Added a new buff / low health BG.
++ Updated Matchstatus.
+- + Removed Red & Blue BG.
+- + Moved Server and Round time accordingly.
+- + Moved Round counter to be under Round time.
+- + Changed the BG of the round counter to be white.
++ Updated the KOTH UI.
+- + Changed the gray BG with Red and Blue.
+- + Added a new gray BG for the new round counter.
++ Retired the Left spectatorUI.
++ Fixed some github download issues.
 
 
 
