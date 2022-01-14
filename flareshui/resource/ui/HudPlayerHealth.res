@@ -164,14 +164,14 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"c-173"	
-		"ypos"			"328" 	
+		"xpos"			"c-167"	
+		"ypos"			"333" 	
 		"zpos"			"-22"
-		"wide"			"67"	
-		"tall"			"67"	
+		"wide"			"54"	
+		"tall"			"56"	
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/health_over_bg"
+		"image"			"../vgui/replay/thumbnails/buff"
 		"scaleImage"	"1"
 	}
 	

@@ -5,7 +5,7 @@
 	{
 		if_match
 		{
-		    "ypos"      "0"
+		    "ypos"      "-6"
 			"zpos"		"-6"
 		}
 	}
@@ -104,7 +104,6 @@
 		if_match
 		{
 			"xpos"          "44"
-		    "fillcolor"		"0 0 0 200"
 			"wide"          "72"
 			"tall"      "15"
 		    "ypos"      "6"
@@ -126,15 +125,40 @@
 		"enabled"		"1"
 		
 		
-		//Now works under REDBG as it's easier to work on 1 element instead of 2
+		//
 		if_match
 		{
-		    "fillcolor"		"0 0 0 200"
-			"tall"      "13"
+			"tall"      "15"
 		    "ypos"      "6"
-			"visible"	"0"
+			"visible"	"1"
 		}
 	}
+	
+		// ^ but for blue
+	"GrayBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"GrayBG"
+		"xpos"          "44"
+		"ypos"          "4"
+		"zpos"          "-21"
+		"wide"          "72"
+		"tall"          "16"
+		"fillcolor"		"0 0 0 150"
+		"visible"		"0"
+		"enabled"		"1"
+		
+		
+		//
+		if_match
+		{
+			"tall"      "18"
+		    "ypos"      "6"
+			"visible"	"1"
+		}
+	}
+	
+	
 	
 	
 	//Xpos editable in Hudlayout.res

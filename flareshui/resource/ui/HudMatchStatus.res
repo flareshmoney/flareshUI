@@ -201,34 +201,34 @@
 	{
 		"fieldName"								"RoundCounter"
 		"xpos"			"cs-0.5"
-		"ypos"									"-6"
+		"ypos"									"-30"
 		"zpos"									"0"
 		"wide"									"300"
-		"tall"									"12"
-		"visible"								"1"
-		"enabled"								"1"
+		"tall"									"1000"
+		"visible"								"0"
+		"enabled"								"0"
 		
-		"starting_width"						"0"
-		"width_per_round"						"0"
-		"indicator_start_offset"				"4"
-		"indicator_max_wide"					"29"
+		"starting_width"						"0"   //yep no idea
+		"width_per_round"						"0"  //no idea what this does
+		"indicator_start_offset"				"1"   //this sets the score to be a bit apart from each other
+		"indicator_max_wide"					"23"  //how far the blocks are from each other
 		
 		"RoundIndicatorPanel_kv"
 		{
 
-			"ypos"								"7"
+			"ypos"								"45"
 			"wide"								"4"
-			"tall"								"4"
+			"tall"								"3"
 			"zpos"								"98"
-			"image"								"../vgui/replay/thumbnails/panels/Material_Transparent_Black_70"
+			"image"								"../vgui/replay/thumbnails/panels/Material_Transparent_white_30"
 			"scaleimage"						"1"
 		}
 		
 		"RoundWinPanelRed_kv"
 		{
-			"ypos"								"7"
+			"ypos"								"45"
 			"wide"								"4"
-			"tall"								"4"
+			"tall"								"3"
 			"zpos"								"99"
 			"image"								"../vgui/replay/thumbnails/panels/Panel_Red"
 			"scaleimage"						"1"
@@ -236,9 +236,9 @@
 
 		"RoundWinPanelBlue_kv"
 		{
-			"ypos"								"7"
+			"ypos"								"45"
 			"wide"								"4"
-			"tall"								"4"
+			"tall"								"3"
 			"zpos"								"99"
 			"image"								"../vgui/replay/thumbnails/panels/Panel_Blue"
 			"scaleimage"						"1"
@@ -251,7 +251,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"BGFrame"
 		"xpos"				"cs-0.5"
-		"ypos"				"-5"
+		"ypos"				"-10"
 		"zpos"				"0"
 		"wide"				"0"
 		"tall"				"0"
@@ -313,7 +313,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"-35"
-		"ypos"				"-6"	
+		"ypos"				"-3"	
 		"zpos"				"4"
 		"wide"				"f0"
 		"tall"				"480"
@@ -327,7 +327,7 @@
 		"PositiveColor"			"Green"
 		"NegativeColor"			"Red"
 		"delta_lifetime"		"2.0"
-		"delta_item_font"		"Product18"
+		"delta_item_font"		"Product20"
 		
 		
 		
@@ -335,21 +335,18 @@
 		{
 			"xpos"				"-35"
 			"zpos"				"-10"
-			"ypos"				"-7"
+			"ypos"				"-12"
 		}
-		
-
-	
 		
 		//Round time
 		"TimePanelValue"
         {
             "ControlName"	"CExLabel"
             "fieldName"		"TimePanelValue"
-            "font"			"Product18"
+            "font"			"Product20"
             "fgcolor"		"LightGray"
             "xpos"			"c-5"
-            "ypos"			"2"
+            "ypos"			"1"
             "zpos"			"18"
             "wide"			"80"
             "tall"			"20"
@@ -593,6 +590,13 @@
 				"xpos"								"9999"
 			}
 		}
+	}
+   
+    "BlueScoreBG"
+	{
+	    "ControlName"								"EditablePanel"
+        "fieldname"   "BlueScoreBG"
+		"visible" "0"
 	}
 
 	"BlueTeamPanel"

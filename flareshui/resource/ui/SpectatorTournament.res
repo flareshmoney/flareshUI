@@ -54,6 +54,24 @@
 				"textAlignment"	"west"
 				"fgcolor"		"White"
 			}
+			
+			"playernameshadow"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"	"playernameshadow"
+				"font"		"Product12"
+				"xpos"			"37"
+				"ypos"			"-1"
+				"zpos"			"4"
+				"wide"			"85"
+				"tall"			"15"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"1"
+				"labelText"		"%playername%"
+				"textAlignment"	"west"
+				"fgcolor"		"Black"
+			}
 
             "BG"
 			{
