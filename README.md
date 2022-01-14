@@ -3,15 +3,16 @@ Decided to upload my hud after a year+ of editing Yahud-5MD to my own liking.
 
 
 # Credits:
-+ YAHUD-5MD,  Created by: Whayay.         Edited version by Hypnootize. (Base hud)
-+ Arekkhud,   Created by: Arekk           New font (Product sans)
-+ Yttrium's High Res Class Select Images  ( https://www.teamfortress.tv/52291/high-res-class-select-images )
-+ Stabbyhud,  Created by: Stabby.         (HudItemEffectMeter, Killstreak counter)
-+ Seahud,     Created by: (Private).      (Matchstatus)
-+ Flamehud,   Created by: Flame           (Scoreboard, Killerfreezepannel)
-+ mkmthud,    Created by: ?.              (Class portraits when specing)
-+ PEACHHUD,   Created by: PeachesTV.      (Main menu image, Winlimit)
-+ BroeselHud, Created by: Broesel.        (HudObjectiveTimePanel, aka Server time)
++ YAHUD-5MD,  Created by: Whayay.          Edited version by Hypnootize. (Base hud)
++ Menu BG,    Created by: @Davidshrigley   Full credit goes to Mr Shrigely on Twitter.
++ Arekkhud,   Created by: Arekk            New font (Product sans)
++ Yttrium's High Res Class Select Images   ( https://www.teamfortress.tv/52291/high-res-class-select-images )
++ Stabbyhud,  Created by: Stabby.          (HudItemEffectMeter, Killstreak counter)
++ Seahud,     Created by: (Private).       (Matchstatus)
++ Flamehud,   Created by: Flame            (Scoreboard, Killerfreezepannel)
++ mkmthud,    Created by: ?.               (Class portraits when specing)
++ PEACHHUD,   Created by: PeachesTV.       (Main menu image, Winlimit)
++ BroeselHud, Created by: Broesel.         (HudObjectiveTimePanel, aka Server time)
 
 Please note that I am editing huds with out the makers permission, 
 any element from any other huds are credited in this TXT. 
