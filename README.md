@@ -4,7 +4,7 @@ Decided to upload my hud after a year+ of editing Yahud-5MD to my own liking.
 
 # Credits:
 + YAHUD-5MD,  Created by: Whayay.          Edited version by Hypnootize. (Base hud)
-+ Menu BG,    Created by: @Davidshrigley   Full credit goes to Mr Shrigely on Twitter.
++ Menu BG,    Created by: @Davidshrigley   Full credit goes to Mr Shrigely on Twitter. ( https://twitter.com/davidshrigley/status/1449024827281575940/photo/1 )
 + Arekkhud,   Created by: Arekk            New font (Product sans)
 + Yttrium's High Res Class Select Images   ( https://www.teamfortress.tv/52291/high-res-class-select-images )
 + Stabbyhud,  Created by: Stabby.          (HudItemEffectMeter, Killstreak counter)
