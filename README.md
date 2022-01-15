@@ -44,7 +44,7 @@ Get in contact with me if you want me to delete your hud elements.
 # Changelog: Version V2.3a -> V2.4a
 
 + Added a imgur album.
-+ Added shadow text to Spectator UI.
++ Added shadow text to Spectator UI. (Traditional only) 
 + Added new background colors. (Purple, Blue, Pink)
 + Added a new buff / low health BG.
 + Updated Matchstatus.
