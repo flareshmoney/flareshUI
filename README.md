@@ -36,27 +36,20 @@ Get in contact with me if you want me to delete your hud elements.
 
 
 
-# Current Version: V2.4a
+# Current Version: V2.4b
 + Time released:     10/12/2021
 
-+ Last time updated: 14/01/2022
++ Last time updated: 18/01/2022
 
-# Changelog: Version V2.3a -> V2.4a
+# Changelog: Version V2.4a -> V2.4b
 
-+ Added a imgur album.
-+ Added shadow text to Spectator UI. (Traditional only) 
-+ Added new background colors. (Purple, Blue, Pink)
-+ Added a new buff / low health BG.
-+ Updated Matchstatus.
-- + Removed Red & Blue BG.
-- + Moved Server and Round time accordingly.
-- + Moved Round counter to be under Round time.
-- + Changed the BG of the round counter to be white.
-+ Updated the KOTH UI.
-- + Changed the gray BG with Red and Blue.
-- + Added a new gray BG for the new round counter.
-+ Retired the Left spectatorUI.
-+ Fixed some github download issues.
++ Added custom control point icons.
++ Added Control point progress icon.
++ Redid the Main menu BG.
++ Actually added a BG on the Class selection.
++ Fixed lag issue.
++ Fixed some bugs introduced in this version.
++ Removed some files that aren't in use.
 
 
 
