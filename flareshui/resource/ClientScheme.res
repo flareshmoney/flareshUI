@@ -721,6 +721,18 @@ Scheme
 			}
 		}	
 		
+		"Product12Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"12"
+				"additive"									"0"
+				"antialias" 								        "1"
+				"outline"									"1"
+			}
+		}
+		
 		"Product16"
 		{
 			"1"
