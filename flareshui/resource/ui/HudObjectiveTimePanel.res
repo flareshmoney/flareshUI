@@ -200,7 +200,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"SetupLabel"
 		"xpos"			"c16"
-		"ypos"			"15"
+		"ypos"			"17"
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"19"
@@ -216,17 +216,17 @@
 		
 		if_match
 		{
-				"ypos"			"25"
+				"ypos"			"26"
 		}
 	}	
 	"SetupBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"SetupBG"
-		"xpos"			"c15"
+		"xpos"			"c12"
 		"ypos"			"19"
 		"zpos"			"1"
-		"wide"			"40"
+		"wide"			"46"
 		"tall"			"14"
 		"visible"		"1"
 		"enabled"		"1"
