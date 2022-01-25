@@ -28,7 +28,7 @@
 		"LineSpacing"	  "0"      //Increase this to around "2" for line spacing in the killfeed
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"
-		"TextFont"		"DeathNotice"
+		"TextFont"		"Product12"
 		
 		"TeamBlue"		"Blue"	
 		"TeamRed"		"Red"	
@@ -339,13 +339,14 @@
 		"priority"	"40"
 	}
 	
+	//Target ID when getting healed
 	CSecondaryTargetID
 	{
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-170"
-		"ypos"		"300"
+		"ypos"		"375"
 		"wide"	 	"f0"
 		"tall"	 	"50"
 		"priority"	"35"
@@ -1479,5 +1480,21 @@
 		"keyboardinputenabled"	"1"
 		"mouseinputenabled"		"0"
 		"alpha"					"100"
+	}
+	
+	"TransparentViewmodelMask"
+	{
+		//alpha doesn't work for this, you need to change the texture's alpha
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TransparentViewmodelMask"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-100"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"0"  //replace 0 with 1 for using this.
+		"enabled"		"0"  //replace 0 with 1 for using this.
+		"image"			"replay/thumbnails/REFRACTnormal_transparent"
+		"scaleImage"	"1"
 	}
 }
