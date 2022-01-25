@@ -317,25 +317,47 @@
 		"visible"		"0"
 		"ypos"			"480"
 	}
+	
 	"ReinforcementsLabel"
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"100"	
-		"ypos"			"35"		
+		"ypos"			"49"		
 		"wide"			"400"	
 		"tall"			"20"
-		"autoResize"		"0"
-		"pinCorner"		"0"
+		"zpos"					"0"
+		"autoResize"		"1"
+		"pinCorner"		"1"
 		"visible"		"1"
 		"enabled"		"1"
-        "textinsetx"	"0"
+        "textinsetx"	"1"
 		"use_proportional_insets" "0"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"east"
 		"font"			"Product16"			
 		"fgcolor_override" "Time"
 	}
+	
+	"RespawnBG"
+	{
+		"ControlName"			"ImagePanel"
+		"fieldName"				"TimePanelBG"
+		"xpos"					"c-67"
+		"ypos"					"50"
+		"zpos"					"-1"
+		"wide"					"147"
+		"tall"					"18"
+		"visible"				"1"
+		"enabled"				"1"
+		"fillcolor"		"0 0 0 150"
+		"scaleImage"			"1"	
+		"src_corner_height"		"0"
+		"src_corner_width"		"0"
+		"draw_corner_width"		"0"
+		"draw_corner_height" 	"0"
+	}
+	
 	"BuyBackLabel"
 	{
 		"ControlName"	"CExLabel"
