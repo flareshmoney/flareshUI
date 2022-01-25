@@ -187,7 +187,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"KillAnchor"
-		"xpos"			"-5"
+		"xpos"			"-3"
 		"ypos"			"35"
 		"wide"			"8"
 		"tall"			"8"
@@ -204,7 +204,7 @@
 		"zpos"			"12"
 		"wide"			"10"
 		"tall"			"10"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/leaderboard_streak"
 		"scaleImage"	"1"
