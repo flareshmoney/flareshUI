@@ -36,20 +36,31 @@ Get in contact with me if you want me to delete your hud elements.
 
 
 
-# Current Version: V2.4b
+# Current Version: V2.5a
 + Time released:     10/12/2021
 
-+ Last time updated: 18/01/2022
++ Last time updated: 25/01/2022
 
-# Changelog: Version V2.4a -> V2.4b
+# Changelog: Version V2.4b-> V2.5a
 
-+ Added custom control point icons.
-+ Added Control point progress icon.
-+ Redid the Main menu BG.
-+ Actually added a BG on the Class selection.
-+ Fixed lag issue.
-+ Fixed some bugs introduced in this version.
-+ Removed some files that aren't in use.
+ 
+# Major changes:
++ Added a background to the respawn timer.
++ Moved TargetID when getting healed to be under the health instead of above.
++ Updated minmode scoreboard to be side by side.
++ Updated the respawn label (in casual) to be on the left side of the screen.
++ Decreased the size of the capture point "teardrop".
++ Changed the killstreak counter to be tinier and horizontal.
+
+# Minor changes:
++ Added support for transparent viewmodels.
++ Added Killstreak icon on the TargetID.
++ Added an outline on "ubercharge" etc until I get a fix.
++ Removed some stats on the scoreboard except for "kills, assists etc"
++ Updated the killfeed to use the product font.
++ Fixed the SetupBG not matching the new size of the timeBG's.
++ Fixed some weapon shadow related inconsistenies.
++ Fixed Map name going off the screen.
 
 
 
