@@ -17,7 +17,7 @@
 		"fieldName" "HudDeathNotice"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "r640"	
+		"xpos"	 "r637"	
 		"ypos"	 "20"	
 		"wide"	 "636"
 		"tall"	 "468"
@@ -25,10 +25,10 @@
 		"MaxDeathNotices" "12"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "14"
-		"LineSpacing"	  "-1"      //Increase this to around "2" for line spacing in the killfeed
+		"LineSpacing"	  "0"      //Increase this to around "2" for line spacing in the killfeed
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"
-		"TextFont"		"DeathNotice"
+		"TextFont"		"Product12"
 		
 		"TeamBlue"		"Blue"	
 		"TeamRed"		"Red"	
@@ -78,8 +78,8 @@
 		"fieldName"		"HudDamageIndicator"
 		"visible"		"1"
 		"enabled"		"1"
-		"MinimumWidth"	"23"
-		"MaximumWidth"	"23"
+		"MinimumWidth"	"20"
+		"MaximumWidth"	"20"
 		"StartRadius"	"80"
 		"EndRadius"		"80"
 		"MinimumHeight"	"30"
@@ -141,7 +141,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"0"
-		"ypos"	"0"
+		"ypos"	"7"
 		"wide"	"f0"
 		"tall"	"480"
 	}	
@@ -156,7 +156,7 @@
 		"wide"	"f0"
 		"tall"	"480"
 		
-		"blue_active_xpos"			"0"
+		"blue_active_xpos"			"50"
 		"red_active_xpos"			"80"
        
 	}	
@@ -207,7 +207,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	
-		"ypos"			"r21"	
+		"ypos"			"r51"	
 		"zpos"			"1"
 		"wide"			"60"
 		"tall"			"8"
@@ -326,25 +326,27 @@
 		"priority"	"40"
 	}
 	
+	//targetID when in spec
 	CSpectatorTargetID
 	{
 		"fieldName" 	"CSpectatorTargetID"
 		"visible" 	"1"
 		"enabled" 	"1"
 		"xpos"		"c-120"
-		"ypos"		"300"
+		"ypos"		"380" //350 = default
 		"wide"	 	"f0"
 		"tall"	 	"50" 
 		"priority"	"40"
 	}
 	
+	//Target ID when getting healed
 	CSecondaryTargetID
 	{
 		"fieldName" 	"CSecondaryTargetID"
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-170"
-		"ypos"		"300"
+		"ypos"		"375"
 		"wide"	 	"f0"
 		"tall"	 	"50"
 		"priority"	"35"
@@ -368,12 +370,12 @@
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"-18"
-		"ypos"		"0"
+		"xpos"		"-14"
+		"ypos"		"-50"
 		"wide"		"f0"
 		"tall"		"480"
 		
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"1"
 	}
 
 	HudMannVsMachineStatus
@@ -803,7 +805,7 @@
 	{
 		"fieldName"				"HudControlPointIcons"
 		"xpos"					"0"
-		"ypos"					"410"
+		"ypos"					"450"
 		"wide"					"f0"
 		"tall"					"200"
 		"visible"				"1"
@@ -1478,5 +1480,21 @@
 		"keyboardinputenabled"	"1"
 		"mouseinputenabled"		"0"
 		"alpha"					"100"
+	}
+	
+	"TransparentViewmodelMask"
+	{
+		//alpha doesn't work for this, you need to change the texture's alpha
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TransparentViewmodelMask"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-100"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"0"  //replace 0 with 1 for using this.
+		"enabled"		"0"  //replace 0 with 1 for using this.
+		"image"			"replay/thumbnails/REFRACTnormal_transparent"
+		"scaleImage"	"1"
 	}
 }
