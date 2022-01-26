@@ -49,7 +49,6 @@ Get in contact with me if you want me to delete your hud elements.
 
  
 # Major changes:
-+ Added a background to the respawn timer.
 + Moved TargetID when getting healed to be under the health instead of above.
 + Updated minmode scoreboard to be side by side.
 + Updated the respawn label (in casual) to be on the left side of the screen.
