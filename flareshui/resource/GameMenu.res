@@ -107,7 +107,7 @@
 	"HomeServer"
 	{
 		"label" 		"7"
-		"command"       "engine echo  flareshui V2.5b Made by flareshmoney."
+		"command"       "engine echo  flareshui V2.5c Made by flareshmoney."
         "tooltip" 		"flareshui"
 		"subimage" 		""
 	}
