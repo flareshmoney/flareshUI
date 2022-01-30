@@ -15,7 +15,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"r405"	
+		"zpos"          "99999"
+		"xpos"			"c-425"	
 		"ypos"			"-1"	
 		"wide"			"400"	
 		"tall"			"20"
@@ -26,8 +27,8 @@
         "textinsetx"	"0"
 		"use_proportional_insets" "0"
 		"labelText"		"#game_respawntime_in_secs"
-		"textAlignment"		"east"
-		"font"			"NoveMedium20"			
+		"textAlignment"		"west"
+		"font"			"Product16"			
 		"fgcolor_override" "Time"
 	}
 	"BuyBackLabel"

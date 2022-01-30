@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ControlPointIcon"
-		"xpos"			"0"
+		"xpos"			""
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"21"

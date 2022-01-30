@@ -37,8 +37,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"c352"
-		"ypos"					"27"
+		"xpos"					"c343"
+		"ypos"					"26"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -51,7 +51,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"Product9"
 	}
 
 	"ItemEffectMeter"
@@ -59,7 +59,7 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"25"
+		"xpos"					"24"
 		"ypos"					"230"
 		"zpos"					"2"
 		"wide"					"40"
@@ -77,8 +77,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"c352"
-		"ypos"					"12"
+		"xpos"					"c364"
+		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -90,16 +90,16 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Product20"
+		"font"					"Product16"
 	}
 	"ItemEffectMeterCountShadow"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"c354"
-		"ypos"					"13"
+		"xpos"					"c364"
+		"ypos"					"24"
 		"zpos"					"2"
-		"wide"					"40"
+		"wide"					"42"
 		"tall"					"20"	
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -109,7 +109,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Product20"
+		"font"					"Product16"
 		"fgcolor"				"black"
 	}
 }

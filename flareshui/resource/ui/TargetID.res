@@ -146,7 +146,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Product12"
+		"font"			"Product12Outline"
 		"xpos"			"52"
 		"ypos"			"19"		
 		"zpos"			"4"
@@ -157,13 +157,33 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%targetdata%"
-		"fgcolor"		"White"
+		"fgcolor"		"0 255 144 255"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+	}
+	
+	"TargetDataLabelShadow"
+	{	
+		"ControlName"		"CExLabel"
+		"fieldName"		"TargetDataLabelShadow"
+		"font"			"Product12"
+		"xpos"			"61"
+		"ypos"			"19"		
+		"zpos"			"4"
+		"wide"			"351"
+		"tall"			"15"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"labelText"		"%targetdata%"
+		"fgcolor"		"black"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
     
-	
 	//Health
 	"SpectatorGUIHealth"
 	{
