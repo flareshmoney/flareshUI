@@ -45,25 +45,19 @@ Get in contact with me if you want me to delete your hud elements.
 
 + Last time updated: 25/01/2022
 
-# Changelog: Version V2.4b-> V2.5a
+# Changelog: Version V2.5b-> V2.5c
 
  
-# Major changes:
-+ Moved TargetID when getting healed to be under the health instead of above.
-+ Updated minmode scoreboard to be side by side.
-+ Updated the respawn label (in casual) to be on the left side of the screen.
-+ Decreased the size of the capture point "teardrop".
-+ Changed the killstreak counter to be tinier and horizontal.
+Changelog:
 
-# Minor changes:
-+ Added support for transparent viewmodels.
-+ Added Killstreak icon on the TargetID.
-+ Added an outline on "ubercharge" etc until I get a fix.
-+ Removed some stats on the scoreboard except for "kills, assists etc"
-+ Updated the killfeed to use the product font.
-+ Fixed the SetupBG not matching the new size of the timeBG's.
-+ Fixed some weapon shadow related inconsistenies.
-+ Fixed Map name going off the screen.
++ Fixed previous versions not having added:
+  + KOTH count down color change.
+  + Outline on TargetDataLabel.
+  + SpectatorUI not moving downwards.
+  + Probably others that I forgot.
++ Fixed KOTH ui when using tf_use_match_hud 0.
++ Added better Customizations management for the SpectatorTournament UI's
+
 
 
 
@@ -71,9 +65,6 @@ Get in contact with me if you want me to delete your hud elements.
 
 # Known Issues:
 + Some hudelements being 1 pixel off.
-+ Respawn timer colliding with other hud elements. (In Casual)
-
-
 
 # Changelog from V1.0d to V2.0a 
 
