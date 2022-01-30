@@ -40,15 +40,12 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/9hMPQUDy
 
 
-# Current Version: V2.5a
+# Current Version: V2.5c
 + Time released:     10/12/2021
 
-+ Last time updated: 25/01/2022
++ Last time updated: 30/01/2022
 
 # Changelog: Version V2.5b-> V2.5c
-
- 
-Changelog:
 
 + Fixed previous versions not having added:
   + KOTH count down color change.
