@@ -2,7 +2,7 @@
 {
 	"ServerBrowserButton"
 	{
-		"label" 		"SERVERS" 
+		"label" 		"Servers" 
 		"command" 		"OpenServerBrowser"
 		"subimage" 		""
 	}
@@ -14,37 +14,37 @@
 	}
 	"CharacterSetupButton"
 	{
-		"label" 		"ITEMS"
+		"label" 		"Items"
 		"command" 		"engine open_charinfo"
 		"subimage" 		""
 	}
 	"GeneralStoreButton"
 	{
-		"label" 		"STORE"
+		"label" 		"Store"
 		"command" 		"engine open_store"
 		"subimage" 		""
 	}
 	"SettingsButton"
 	{
-		"label" 		"OPTIONS"
+		"label" 		"Options"
 		"command" 		"OpenOptionsDialog"
 		"subimage" 		""
 	}
 	"ConsoleButton"
 	{
-		"label"			"CONSOLE"
+		"label"			"Console"
 		"command" 		"engine con_enable 1;toggleconsole"
 		"subimage" 		""
 	}
 	"AdvOptionsButton"
 	{
-		"label"			"ADVANCED"
+		"label"			"Advanced"
 		"command"		"opentf2options"
 		"subimage" 		""
 	}
 	"QuitButton"
 	{
-		"label" 		"QUIT"
+		"label" 		"Quit"
 		"command" 		"engine replay_confirmquit"
 		"OnlyAtMenu" 	"1"
 		"subimage" 		""
@@ -55,20 +55,20 @@
 	{
 		"label" 		"q"
 		"command" 		"engine demoui"
-		"tooltip" 		"DEMOUI"
+		"tooltip" 		"DemoUI"
 	}
 	"ToggleScoreboard"
 	{
 		"label" 		"n"
 		"command" 		"engine toggle cl_hud_minmode"
-        "tooltip" 		"TOGGLE SCOREBOARD"
+        "tooltip" 		"Toggle Scoreboard"
 		"subimage" 		""
 	}
 	"AchievementsButton"
 	{
 		"label"			"B"
 		"command"		"OpenAchievementsDialog"
-        "tooltip" 		"ACHIEVEMENTS"
+        "tooltip" 		"Achievements"
 		"subimage" 		""
 	}
 	
@@ -77,7 +77,7 @@
 	// These buttons are only shown while in-game
 	"DisconnectButton"
 	{
-		"label" 		"LEAVE"
+		"label" 		"Leave"
 		"command" 		"engine disconnect"
 		"OnlyInGame"	"1"
 		"subimage" 		""
@@ -87,7 +87,7 @@
 		"label"			"W"
 		"command"		"callvote"
 		"OnlyInGame"	"1"
-		"tooltip" 		"CALL VOTE"
+		"tooltip" 		"Call Vote"
 		"subimage" 		""
 	}
 	"MutePlayersButton"
@@ -95,7 +95,7 @@
 		"label"			"O"
 		"command"		"OpenPlayerListDialog"
 		"OnlyInGame"	"1"
-        "tooltip" 		"MUTE PLAYERS"
+        "tooltip" 		"Mute Players"
 		"subimage" 		""
 	}
 	
@@ -107,7 +107,7 @@
 	"HomeServer"
 	{
 		"label" 		"7"
-		"command"       "engine echo  flareshui V2.5c Made by flareshmoney."
+		"command"       "engine echo  flareshui V2.5d Made by flareshmoney."
         "tooltip" 		"flareshui"
 		"subimage" 		""
 	}

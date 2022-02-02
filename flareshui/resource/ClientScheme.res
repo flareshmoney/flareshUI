@@ -114,6 +114,7 @@ Scheme
 		"GoalOrange"		"255 133 0"
 		"TFOrange"			"142 142 142 255"
 		"Purple"			"137 69 99 255"
+		"Mint"              "0 255 144 255"
 
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
@@ -729,6 +730,54 @@ Scheme
 				"tall"										"12"
 				"additive"									"0"
 				"antialias" 								        "1"
+				"outline"									"1"
+			}
+		}
+		
+		"Product13"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"13"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}
+		
+		"Product13outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"13"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
+		
+		"Product15"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"15"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"0"
+			}
+		}
+		
+		"Product15Outline"
+		{
+			"1"
+			{
+				"name"										"Product Sans"
+				"tall"										"15"
+				"additive"									"0"
+				"antialias" 								"1"
 				"outline"									"1"
 			}
 		}
