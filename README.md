@@ -43,17 +43,24 @@ Get in contact with me if you want me to delete your hud elements.
 # Current Version: V2.5c
 + Time released:     10/12/2021
 
-+ Last time updated: 30/01/2022
++ Last time updated: 02/02/2022
 
-# Changelog: Version V2.5b-> V2.5c
+# Changelog: Version V2.5c-> V2.5d
 
-+ Fixed previous versions not having added:
-  + KOTH count down color change.
-  + Outline on TargetDataLabel.
-  + SpectatorUI not moving downwards.
-  + Probably others that I forgot.
-+ Fixed KOTH ui when using tf_use_match_hud 0.
-+ Added better Customizations management for the SpectatorTournament UI's
+ 
++ Added a background to medigun & killstreak info on the TargetID.
++ Added a background to the respawn timer (both casual and comp).
++ Updated Medigun name on TargetID to be removed, now only "U: 00%".
++ Updated killfeed background to be more transparent.
++ Updated the gamemenu to not all have capital letters.
++ Updated SpectatorTournamentUI's:
+   + SpectatorTournamentUI Default:
+  + Moved Medic's Chargeamount to the right.
+  + Made the Medic's Chargeamount text larger.
+  + Added a shadowtext the the Medic's Chargeamount
+   + SpectatorTournamentUI Top:
+  + Updated respawn font.
+
 
 
 
