@@ -183,7 +183,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"DefaultSmall"
+				"font"			"Product12"
 				"xpos"			"30"
 				"ypos"			"15"
 				"zpos"			"5"
@@ -218,6 +218,25 @@
 				"labelText"		"%chargeamount%"
 				"textAlignment"	"north"
 				"fgcolor"		"0 255 144 255" //Mint, looks green.
+			}
+			
+		 "chargeamountshadow"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"chargeamountshadow"
+				"font"		"Product10"
+				"xpos"			"1"
+				"ypos"			"15"
+				"zpos"			"5"
+				"wide"			"26"
+				"tall"			"16"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"0"
+				"enabled"       "0"
+				"labelText"		"%chargeamount%"
+				"textAlignment"	"north"
+				"fgcolor"		"black" 
 			}
 			
 			"specindex"
@@ -296,6 +315,14 @@
 		"textAlignment"		"east"
 		"font"			"Product16"			
 		"fgcolor_override" "Time"
+		
+				
+		"bgcolor_override"	"0 0 0 150"
+		"paintbackgroundtype"	"0"
+		
+		"auto_wide_tocontents"	"1"
+		"textinsetx"			"8"
+		"use_proportional_insets"	"1"
 	}
 	
 	"BuyBackLabel"

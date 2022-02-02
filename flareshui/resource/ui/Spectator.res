@@ -30,7 +30,16 @@
 		"textAlignment"		"west"
 		"font"			"Product16"			
 		"fgcolor_override" "Time"
+		
+		"bgcolor_override"	"0 0 0 150"
+		"paintbackgroundtype"	"0"
+		
+		"auto_wide_tocontents"	"1"
+		"textinsetx"			"8"
+		"use_proportional_insets"	"1"
 	}
+	
+
 	"BuyBackLabel"
 	{
 		"ControlName"		"CExLabel"

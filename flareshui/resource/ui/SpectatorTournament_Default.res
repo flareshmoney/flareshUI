@@ -213,17 +213,34 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"chargeamount"
-				"font"		"Product10"
-				"xpos"			"36"
-				"ypos"			"6"
+				"font"		"Product12"
+				"xpos"			"82"
+				"ypos"			"4"
 				"zpos"			"7"
 				"wide"			"30"
 				"tall"			"12"
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
-				"textAlignment"	"west"
-				"fgcolor"		"0 255 144 255"
+				"textAlignment"	"east"
+				"fgcolor"		"mint"
 			}
+			
+			"chargeamountshadow"
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"	"chargeamountshadow"
+				"font"		"Product12"
+				"xpos"			"82"
+				"ypos"			"4"
+				"zpos"			"7"
+				"wide"			"31"
+				"tall"			"13"
+				"visible"		"1"
+				"labelText"		"%chargeamount%"
+				"textAlignment"	"east"
+				"fgcolor"		"black"
+			}
+
             "respawntimecover"
 			{
 				"ControlName"	"CExLabel"
@@ -339,7 +356,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"100"	
+		"xpos"			"c-60"	
 		"ypos"			"45"		
 		"wide"			"400"	
 		"tall"			"20"
@@ -353,6 +370,13 @@
 		"textAlignment"		"east"
 		"font"			"Product16"			
 		"fgcolor_override" "Time"
+		
+		"bgcolor_override"	"0 0 0 150"
+		"paintbackgroundtype"	"0"
+		
+		"auto_wide_tocontents"	"1"
+		"textinsetx"			"8"
+		"use_proportional_insets"	"1"
 	}
 	"BuyBackLabel"
 	{
