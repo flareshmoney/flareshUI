@@ -28,14 +28,14 @@
 		"LineSpacing"	  "0"      //Increase this to around "2" for line spacing in the killfeed
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"
-		"TextFont"		"Product12"
+		"TextFont"		"Product13"
 		
 		"TeamBlue"		"Blue"	
 		"TeamRed"		"Red"	
 		"IconColor"		"White"
 		"LocalPlayerColor"	"Black"
 
-		"BaseBackgroundColor"	"DarkGray"	        //Dark background color        
+		"BaseBackgroundColor"	"36 36 36 125"	        //Dark background color        
 		"LocalBackgroundColor"	"242 242 242 255"	//Background color for you own actions
 	}
     
