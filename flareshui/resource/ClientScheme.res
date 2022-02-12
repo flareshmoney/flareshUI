@@ -994,74 +994,14 @@ Scheme
 				"antialias" "1"
 			}
 		}				
-			
-			
-			
-		"FolkPro-Bold"
-		{
-			"1"
-			{
-			    "name" "FolkPro-Bold"
-				"tall"		"54"		
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}			
-			
-			
-		"Arial Rounded MT"
-		{
-			"1"
-			{
-			    "name" "Arial Rounded MT"    
-				"tall"		"54"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+
 		
-	
-	
-		"HandelGothic BT"
-		{
-			"1"
-			{
-			    "name" "HandelGothic BT"
-				"tall"		"54"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-		
-	
-	
-		"Harabara"
-		{
-			"1"
-			{
-				"name"		"Harabara"
-				"tall"		"54"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-	
-	
-		"HeavyCaps59"
-		{
-			"1"
-			{
-				"name"		"HeavyCaps"
-				"tall"		"59"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
+
 		"HeavyCaps26"
 		{
 			"1"
 			{
-				"name"		"HeavyCaps"
+				"name"		"Product Sans"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -1071,208 +1011,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"HeavyCaps"
+				"name"		"Product Sans"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"BoldNumbers54"             //Used for hp & ammo
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"54"
-				"additive"	"0"
-				"antialias" 	"1"
-                "dropshadow"	"0"
-			}
-		}
-        "BoldNumbers36"             //Used for hp & ammo
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"36"
-				"additive"	"0"
-				"antialias" 	"1"
-                "dropshadow"	"0"
-			}
-		}
-        "BoldNumbers30"             //Freezecam
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"30"
-				"additive"	"0"
-				"antialias" 	"1"
-                "dropshadow"	"0"
-			}
-		}
-        "BoldNumbers26"             //Freezecam
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"26"
-				"additive"	"0"
-				"antialias" 	"1"
-                "dropshadow"	"0"
-			}
-		}
-        "BoldNumbers24"            
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"24"
-				"additive"	"0"
-				"antialias" 	"1"
-                "dropshadow"	"0"
-			}
-		}
-        "BoldNumbers22"             
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"22"
-				"additive"	"0"
-				"antialias" 	"1"
-                "dropshadow"	"0"
-			}
-		}
-        "BoldNumbers20"             //Used for TargetID
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" 	"1"
-                "dropshadow"	"0"
-			}
-		}
-        "BoldNumbers10"
-		{
-			"1"
-			{
-				"name"			"BoldNumbers"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
-        "MediumNumbers32"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"32"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers28"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"28"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers26"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"26"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers20"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers18"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers16"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers14"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"14"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers12"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "MediumNumbers10"
-		{
-			"1"
-			{
-				"name"			"MediumNumbers"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-				"dropshadow"	"0"
-			}
-		}
-        "DataLabelBig"              //AmmoReserve, Uber% & Counters
-		{
-			"1"
-			{
-				"name"			"NovecentoMedium"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" 	"1"
-			}
-		}
+
+
         "DataLabelSmall"            //TargetID
 		{
 			"1"
