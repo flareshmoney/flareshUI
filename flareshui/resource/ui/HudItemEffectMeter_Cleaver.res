@@ -4,7 +4,7 @@
 {
 	HudItemEffectMeter
 	{
-		"ypos"			"r120"
-		"xpos"			"c-70"
+		"ypos"			"r97"
+		"xpos"			"c-40"
 	}
 }

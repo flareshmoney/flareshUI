@@ -252,7 +252,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipSubLabel"
-			"font"			"Heavy18"
+			"font"			"Product16"
 			"labelText"		"%tipsubtext%"
 			"textAlignment"	"center"
 			"xpos"			"20"
@@ -271,7 +271,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TipLabel"
-			"font"			"Heavy18"
+			"font"			"Product16"
 			"labelText"		"%tiptext%"
 			"textAlignment"	"center"
 			"xpos"			"20"
@@ -563,7 +563,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"News"
-			"font"			"Heavy18"
+			"font"			"Product16"
 			"labelText"		"NEWS"
 			"textAlignment"	"west"
 			"xpos"			"10"
@@ -962,7 +962,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_CountLabel"
-			"font"			"NoveMedium8"
+			"font"			"Product9"
 			"labelText"		"%noticount%"
 			"textAlignment"	"center"
 			"xpos"			"21"

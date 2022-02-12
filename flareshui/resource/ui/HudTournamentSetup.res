@@ -74,7 +74,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"EnterName"
-		"font"			"NoveLight10"
+		"font"			"Product9"
 		"fgcolor"		"Blank"
         "textinsetx"	"0"
 		"use_proportional_insets" "1"
@@ -95,7 +95,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamenteLabel"
-		"font"			"Medium9"
+		"font"			"Product9"
 		"xpos"			"92"
 		"ypos"			"3"
 		"zpos"			"1"
@@ -115,7 +115,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentTeamNameLabel"
-		"font"			"NoveMedium20"
+		"font"			"Product20"
 		"xpos"			"87"
 		"ypos"			"28"
 		"zpos"			"1"
@@ -164,7 +164,7 @@
 		"ControlName"	"CTFButton"
 		"fieldName"		"TournamentNotReadyButton"
 		"xpos"		"46"
-		"ypos"		"13"
+		"ypos"		"15"
 		"zpos"		"2"
 		"wide"		"45"
 		"tall"		"21"
@@ -178,7 +178,7 @@
 		"brighttext"	"0"
 		"command"		"teamnotready"
 		"default"		"1"
-		"font"		    "NoveMedium14"
+		"font"		    "Product16"
 		"fgcolor"		"Black"
 
 		"border_default"	""
@@ -194,7 +194,7 @@
 		"ControlName"	"CTFButton"
 		"fieldName"	"TournamentReadyButton"
 		"xpos"		"88"
-		"ypos"		"13"
+		"ypos"		"15"
 		"zpos"		"2"
 		"wide"		"45"
 		"tall"		"21"
@@ -208,7 +208,7 @@
 		"brighttext"	"0"
 		"command"		"teamready" 
 		"default"		"1"
-		"font"		    "NoveMedium14"
+		"font"		    "Product16"
 		"fgcolor"		"Black"
 
 		"border_default"	""

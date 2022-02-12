@@ -11,12 +11,12 @@
 		"enabled"		"1"
 		
 		"team1_player_base_offset_x"		"-448"
-		"team1_player_base_y"				"194"   
+		"team1_player_base_y"				"206"   
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"-15"
 		
 		"team2_player_base_offset_x"		"-448"
-		"team2_player_base_y"				"214"   
+		"team2_player_base_y"				"224"   
 		"team2_player_delta_x"				"0"
 		"team2_player_delta_y"				"15"
 
@@ -357,9 +357,9 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
 		"xpos"			"c-60"	
-		"ypos"			"45"		
+		"ypos"			"49"		
 		"wide"			"400"	
-		"tall"			"20"
+		"tall"			"19"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"

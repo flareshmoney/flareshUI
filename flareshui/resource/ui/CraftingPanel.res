@@ -325,6 +325,27 @@
 		}			
 	}
 	
+	"OnlyAllowUniqueQuality"
+	{
+		"ControlName"	"CheckButton"
+		"fieldName"		"OnlyAllowUniqueQuality"
+		"labelText"		"#OnlyAllowUniqueQuality"
+		"Font"			"HudFontSmallestBold"
+		"textAlignment"	"east"
+		"xpos"			"c-306"
+		"ypos"			"340"
+		"zpos"			"1"
+		"wide"			"290"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+	}	
+	
+	
 	"recipecontainerscroller"
 	{
 		"ControlName"	"EditablePanel"

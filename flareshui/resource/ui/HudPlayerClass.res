@@ -154,7 +154,7 @@
 				"angles_z"		"0"
 				"origin_x"		"170"
 				"origin_y"		"-7"
-				"origin_z"		"-61"
+				"origin_z"		"-57"
 			}
 			"Soldier"
 			{
@@ -163,8 +163,8 @@
 				"angles_y"		"160"
 				"angles_z"		"0"
 				"origin_x"		"170"
-				"origin_y"		"-10"
-				"origin_z"		"-58"
+				"origin_y"		"-14"
+				"origin_z"		"-57"
 			}
 			"Demoman"
 			{
@@ -174,7 +174,7 @@
 				"angles_z"		"0"
 				"origin_x"		"170"
 				"origin_y"		"-10"
-				"origin_z"		"-58"
+				"origin_z"		"-57"
 			}
 			"Medic"
 			{
@@ -214,7 +214,7 @@
 				"angles_z"		"0"
 				"origin_x"		"150"
 				"origin_y"		"-12"
-				"origin_z"		"-67"
+				"origin_z"		"-57"
 			}
 			"Engineer"
 			{
@@ -224,7 +224,7 @@
 				"angles_z"		"0"
 				"origin_x"		"170"
 				"origin_y"		"-10"
-				"origin_z"		"-57"
+				"origin_z"		"-50"
 			}
 		}
 	}

@@ -77,10 +77,10 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"			        "c189"	
+		"xpos"			        "c188"	
 		"ypos"			        "348"
 		"zpos"					"2"
-		"wide"					"92"
+		"wide"					"88"
 		"tall"					"23"	
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -90,8 +90,8 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"		        "AmmoReserve"
-		"font"				    "HeavyCaps18"
+		"fgcolor"		        "Negative"
+		"font"				    "Product20"
 	}
 	
 	"ItemEffectMeterCountShadow"
@@ -101,7 +101,7 @@
 		"xpos"			        "c189"	
 		"ypos"			        "348"
 		"zpos"					"2"
-		"wide"					"93"
+		"wide"					"94"
 		"tall"					"24"	
 		"pinCorner"				"2"
 		"visible"				"1"
@@ -112,6 +112,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"		        "HudShadow"
-		"font"				    "HeavyCaps18"
+		"font"				    "Product20"
 	}
 }
