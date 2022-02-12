@@ -40,7 +40,7 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/9hMPQUDy
 
 
-# Current Version: V2.5c
+# Current Version: V2.6
 + Time released:     10/12/2021
 
 + Last time updated: 12/02/2022
