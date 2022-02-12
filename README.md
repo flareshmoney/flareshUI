@@ -43,23 +43,20 @@ Get in contact with me if you want me to delete your hud elements.
 # Current Version: V2.5c
 + Time released:     10/12/2021
 
-+ Last time updated: 02/02/2022
++ Last time updated: 12/02/2022
 
-# Changelog: Version V2.5c-> V2.5d
+# Changelog: Version V2.5d-> V2.6
 
  
-+ Added a background to medigun & killstreak info on the TargetID.
-+ Added a background to the respawn timer (both casual and comp).
-+ Updated Medigun name on TargetID to be removed, now only "U: 00%".
-+ Updated killfeed background to be more transparent.
-+ Updated the gamemenu to not all have capital letters.
-+ Updated SpectatorTournamentUI's:
-   + SpectatorTournamentUI Default:
-  + Moved Medic's Chargeamount to the right.
-  + Made the Medic's Chargeamount text larger.
-  + Added a shadowtext the the Medic's Chargeamount
-   + SpectatorTournamentUI Top:
-  + Updated respawn font.
++ Added a item search bar on item selection.
++ Updated Item meters to be smaller and less in your face.
++ Updated several misc files to use the correct font.
++ Slightly moved ammo in clip to the left.
++ Slightly adjusted 3D player models.
++ Slightly adjusted player status images.
++ Slightly adjusted controlpoint countdown.
++ Deleted unused files.
+
 
 
 
