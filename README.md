@@ -40,12 +40,12 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/yeZeUefUuy
 
 
-# Current Version: V2.61
+# Current Version: V2.61a
 + Time released:     10/12/2021
 
 + Last time updated: 24/02/2022
 
-# Changelog: Version V2.6-> V2.61
+# Changelog: Version V2.6-> V2.61a
 
  
 + Updated ammo in reserve to be slightly lower on the screen.
