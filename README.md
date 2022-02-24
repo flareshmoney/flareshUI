@@ -40,22 +40,26 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/yeZeUefUuy
 
 
-# Current Version: V2.6
+# Current Version: V2.61
 + Time released:     10/12/2021
 
-+ Last time updated: 12/02/2022
++ Last time updated: 24/02/2022
 
-# Changelog: Version V2.5d-> V2.6
+# Changelog: Version V2.6-> V2.61
 
  
-+ Added a item search bar on item selection.
-+ Updated Item meters to be smaller and less in your face.
-+ Updated several misc files to use the correct font.
-+ Slightly moved ammo in clip to the left.
-+ Slightly adjusted 3D player models.
-+ Slightly adjusted player status images.
-+ Slightly adjusted controlpoint countdown.
-+ Deleted unused files.
++ Updated ammo in reserve to be slightly lower on the screen.
++ Updated single ammo weapons to be the same pos as the ones with reserve ammo.
++ Updated Medic charge meter to match the other charge meters.
++ Updated HudMatchstatus to have better visibility when someone is dead.
++ Updated Engineer build status to not have a team colored BG.
++ Updated Stopwatch timer to be more centered and more moved to the top.
++ Updated SpectatorTournament_Default to have a bigger respawning font.
++ Updated Chat to use the HUD's main font.
++ Updated Taunt menu to use the HUD's Main font.
++ Updated Chatbox to be slightly moved down due to a HL specing related issue.
++ Fixed a TargetID ammo icon issue when healing.
+
 
 
 
