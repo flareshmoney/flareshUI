@@ -221,11 +221,11 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"12"
+				"name"		"Product12"
+				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"480 599"
+				"yres"	"600 599"
 			}
 			"2"
 			{
@@ -358,48 +358,47 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"12"	[$WIN32]
-				"tall"		"15"	[$X360]
-				"weight"	"700"
-				"yres"		"480 599"
+				"name"			"Product Sans"
+				"tall"			"16"
+				"yres"			"480 599"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
+
 			"2"
 			{
-				"name"		"Verdana"
-				"tall"		"14"	[$WIN32]
-				"tall"		"17"	[$X360]
-				"weight"	"700"
-				"yres"		"600 767"
+				"name"			"Product Sans"
+				"tall"			"18"
+				"yres"			"600 767"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
+
 			"3"
 			{
-				"name"		"Verdana"
-				"tall"		"15"	[$WIN32]
-				"tall"		"18"	[$X360]
-				"weight"	"700"
-				"yres"		"768 1023"
+				"name"			"Product Sans"
+				"tall"			"20"
+				"yres"			"768 1023"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
+
 			"4"
 			{
-				"name"		"Verdana"
-				"tall"		"17"	[$WIN32]
-				"tall"		"20"	[$X360]
-				"weight"	"700"
-				"yres"		"1024 1199"
+				"name"			"Product Sans"
+				"tall"			"22"
+				"yres"			"1024 1199"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
+
 			"5"
 			{
-				"name"		"Verdana"
-				"tall"		"22"	[$WIN32]
-				"tall"		"25"	[$X360]
-				"weight"	"700"
-				"yres"		"1200 10000"
+				"name"			"Product Sans"
+				"tall"			"24"
+				"yres"			"1200 10000"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 		}
 
@@ -810,5 +809,8 @@ Scheme
 	{
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"		
-	}
+		{
+			"font"	"resource/fonts/ProductSans-Regular.ttf"
+			"name"	"Product Sans"
+		}
 }
