@@ -124,18 +124,18 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"Heavy10"
-		"xpos"			"250"
-		"ypos"			"69"
+		"font"			"Product10"
+		"xpos"			"0"
+		"ypos"			"63"
 		"zpos"			"2"
 		"wide"			"200"
-		"tall"			"13"
+		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Cancel"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
@@ -203,15 +203,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel1"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"32"
 		"ypos"			"130"
@@ -291,15 +291,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel2"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"87"
 		"ypos"			"130"
@@ -379,15 +379,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel3"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel3"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"142"
 		"ypos"			"130"
@@ -467,15 +467,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel4"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel4"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"197"
 		"ypos"			"130"
@@ -555,15 +555,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel5"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel5"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"252"
 		"ypos"			"130"
@@ -643,15 +643,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel6"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel6"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"307"
 		"ypos"			"130"
@@ -731,15 +731,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel7"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel7"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"362"
 		"ypos"			"130"
@@ -819,15 +819,15 @@
 		"wide"			"15"
 		"tall"			"40"
 		"fgcolor"		"Black"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"NumberLabel8"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel8"
-		"font"			"NoveMedium10"
+		"font"			"Product26"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"417"
 		"ypos"			"130"

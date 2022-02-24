@@ -405,11 +405,11 @@
 
 			"color_portrait_bg_red"					"Red"
 			"color_portrait_bg_blue"				"Blue"
-			"color_portrait_bg_red_dead"			"BlackLight"
-			"color_portrait_bg_blue_dead"			"BlackLight"
+			"color_portrait_bg_red_dead"			"79 79 79 255"
+			"color_portrait_bg_blue_dead"			"79 79 79 255"
 			"color_bar_health_high"					"Green"
 			"color_bar_health_med"					"255 130 50 255"
-			"percentage_health_med"					"0.6"
+			"percentage_health_med"					"0.5"
 			"color_bar_health_low"					"Red"
 			"percentage_health_low"					"0.3"
 			"color_portrait_blend_dead_red"			"White"
@@ -462,8 +462,8 @@
 				"xpos"								"0"
 				"ypos"								"0"
 				"zpos"								"5"
-				"wide"								"18"
-				"tall"								"18"
+				"wide"								"19"
+				"tall"								"19"
 				"visible"							"1"
 				"enabled"							"1"
 				"image"								"../hud/class_scoutred"
@@ -528,9 +528,9 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"RespawnTime"
-				"font"								"Size 12 Shadow"
+				"font"								"Product14"
 				"xpos"								"0"
-				"ypos"								"10"
+				"ypos"								"18"
 				"zpos"								"10"
 				"wide"								"f0"
 				"tall"								"f0"
@@ -540,11 +540,10 @@
 				"labelText"							"%respawntime%"
 				"textAlignment"						"center"
 				"proportionaltoparent"				"1"
-				"fgcolor"							"255 216 0 255"
+				"fgcolor"							"White"
 				
 				"pin_to_sibling" 					"ClassImageBg"
-				"pin_corner_to_sibling" 			"PIN_CENTER_TOP"
-				"pin_to_sibling_corner" 			"PIN_CENTER_TOP"
+
 			}
 			
 			"HealthIcon"

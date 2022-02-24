@@ -228,10 +228,10 @@
 	{
 		"ControlName" "ImagePanel"
 		"fieldName"   "BlueTourBG"
-		"xpos"        "c-150"
+		"xpos"        "0"
 		"ypos"        "0"
 		"zpos"        "1"
-		"wide"        "150"
+		"wide"        "56"
 		"tall"        "17"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -256,10 +256,10 @@
 	{
 		"ControlName" "ImagePanel"
 		"fieldName"   "RedTourBG"
-		"xpos"        "c"
-		"ypos"        "0"
+		"xpos"        "0"
+		"ypos"        "17"
 		"zpos"        "1"
-		"wide"        "150"
+		"wide"        "56"
 		"tall"        "17"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -292,8 +292,8 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"fillcolor"		"DarkGray"
-		"visible"			"1"
-		"enabled"			"1"
+		"visible"			"0"
+		"enabled"			"0"
         
         if_competitive
 		{
@@ -345,8 +345,8 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentBLUELabel"
 		"font"			"Product18"
-		"xpos"			"c-146"
-		"ypos"			"-2"
+		"xpos"			"2"
+		"ypos"			"-1"
 		"zpos"			"2"
 		"wide"			"120"
 		"tall"			"20"
@@ -377,8 +377,8 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentBLUEStateLabel"
 		"font"			"Product12"
-		"xpos"			"c-160"
-		"ypos"			"-3"
+		"xpos"			"58"
+		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"156"
 		"tall"			"20"
@@ -389,7 +389,7 @@
 		"wrap"			"0"
 		"fgcolor"			"White"
 		"labelText"		"%bluestate%"
-		"textAlignment"		"east"
+		"textAlignment"		"west"
 
 		if_competitive
 		{
@@ -409,8 +409,8 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentREDLabel"
 		"font"			"Product18"
-		"xpos"			"c"
-		"ypos"			"-2"
+		"xpos"			"2"
+		"ypos"			"16"
 		"zpos"			"2"
 		"wide"			"146"
 		"tall"			"19"
@@ -421,7 +421,7 @@
 		"wrap"			"0"
 		"fgcolor"			"White"
 		"labelText"		"%rednamelabel%"
-		"textAlignment"		"east"
+		"textAlignment"		"west"
 
 		if_competitive
 		{
@@ -441,10 +441,10 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentREDStateLabel"
 		"font"			"Product12"
-		"xpos"			"c4"
-		"ypos"			"-3"
+		"xpos"			"58"
+		"ypos"			"18"
 		"zpos"			"3"
-		"wide"			"165"
+		"wide"			"156"
 		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -472,12 +472,12 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"Product12"
+		"font"			"Product10"
 		"fgcolor"		"White"
         "textinsetx"	"0"
 		"use_proportional_insets" "1"
-		"xpos"			"c-140"
-		"ypos"			"16"
+		"xpos"			"1"
+		"ypos"			"34"
 		"zpos"			"3"
 		"wide"			"280"
 		"tall"			"10"
@@ -487,7 +487,7 @@
 		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"%winconditions%"
-		"textAlignment"		"center"
+		"textAlignment"		"west"
 
 		if_competitive
 		{

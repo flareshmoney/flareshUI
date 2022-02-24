@@ -23,10 +23,10 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"c-60"
-		"ypos"			"r122"
+		"ypos"			"r102"
 		"zpos"			"-2"
 		"wide"			"120"
-		"tall"			"6"
+		"tall"			"4"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -120,7 +120,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"Product23Bold"
-		"fgcolor"		"0 255 144 255"
+		"fgcolor"		"white"
 	}
     "ChargeLabelShadow"
 	{
@@ -280,6 +280,8 @@
 		"pin_corner_to_sibling"		"1"
 		"pin_to_sibling_corner"		"1"
 	}
+	
+
 	
 	//MR Slin's Tracking Enemy Uber (V2)
        "Uber10"

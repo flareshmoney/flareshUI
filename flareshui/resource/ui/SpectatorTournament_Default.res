@@ -35,7 +35,7 @@
 			"paintborder"	"1"
 			"color_ready"	"0 255 0 220"
 			"color_notready"	"0 0 0 220"
-
+			
 			
 			"playername"
 			{
@@ -53,6 +53,8 @@
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
 				"fgcolor"		"White"
+				
+				
 			}
 			
 			"playernameshadow"
@@ -195,11 +197,11 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"	"respawntime"
-				"font"		"Product12"
-				"xpos"			"115"
+				"font"		"Product14"
+				"xpos"			"114"
 				"ypos"			"0"
 				"zpos"			"9"
-				"wide"			"20"
+				"wide"			"24"
 				"tall"			"14"
 				"autoResize"	"0"
 				"pinCorner"		"0"

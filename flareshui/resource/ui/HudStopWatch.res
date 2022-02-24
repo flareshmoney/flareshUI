@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudStopWatchBG"
-		"xpos"			"c-36"
-		"ypos"			"34"
+		"xpos"			"c-40"
+		"ypos"			"32"
 		"zpos"			"-1"
 		"wide"			"80"
 		"tall"			"15"
@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 150"
+		"fillcolor"		"0 0 0 125"
 	}
 
 
@@ -41,8 +41,8 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"c-40"
-		"ypos"				"34"	[$WIN32]
+		"xpos"				"c-44"
+		"ypos"				"32"	[$WIN32]
 		"zpos"				"1"
 		"wide"				"45"
 		"tall"				"15"
@@ -74,8 +74,8 @@
 		"font"			"Product16"
 		"labelText"		"%scoretobeat%"
 		"textAlignment"		"east"
-		"xpos"			"c-10"
-		"ypos"			"34"
+		"xpos"			"c-14"
+		"ypos"			"32"
 		"zpos"			"4"
 		"wide"			"20"
 		"tall"			"15"
@@ -93,8 +93,8 @@
 		"font"			"Product12"
 		"labelText"		"%pointslabel%"
 		"textAlignment"		"west"
-		"xpos"			"c15"
-		"ypos"			"35"
+		"xpos"			"c10"
+		"ypos"			"32"
 		"zpos"			"4"
 		"wide"			"35"
 		"tall"			"15"
