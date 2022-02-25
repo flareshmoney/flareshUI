@@ -43,11 +43,13 @@ Get in contact with me if you want me to delete your hud elements.
 # Current Version: V2.61a
 + Time released:     10/12/2021
 
-+ Last time updated: 24/02/2022
++ Last time updated: 25/02/2022
 
-# Changelog: Version V2.6-> V2.61a
-
+# Changelog: Version V2.61a-> V2.61b
++ Fixed SpectatorTournament_Default using a non existing font.
  
+ 
+# Changelog V2.61a
 + Updated ammo in reserve to be slightly lower on the screen.
 + Updated single ammo weapons to be the same pos as the ones with reserve ammo.
 + Updated Medic charge meter to match the other charge meters.
