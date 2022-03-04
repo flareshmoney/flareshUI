@@ -45,9 +45,9 @@ Get in contact with me if you want me to delete your hud elements.
 
 + Last time updated: 25/02/2022
 
-# Changelog: Version V2.61a-> V2.61b
-+ Fixed SpectatorTournament_Default using a non existing font.
- 
+# Changelog: Version V2.61a-> V2.61c
++ Fixed bonk meter to be correctly placed.
++ Fixed low ammo color not showing.
  
 # Changelog V2.61a
 + Updated ammo in reserve to be slightly lower on the screen.
