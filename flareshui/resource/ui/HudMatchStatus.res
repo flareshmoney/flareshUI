@@ -444,7 +444,7 @@
 				"visible"							"1"
 				"textinsetx"						"1"
 				"labelText"							"%playername%"
-				"font"								"UltraSmall"
+				"font"								"Product10"
 				"textAlignment"						"center"
 				"bgcolor_override"					"TransparentBlack"
 				"proportionaltoparent"				"1"

@@ -585,12 +585,6 @@
 		"tall"			"55"
 		"fgcolor"		"0 0 0 255"
 		
-		"xpos_minmode"			"c-120"
-		"ypos_minmode"			"c-174"
-		"wide_minmode"			"142"
-		"tall_minmode"			"55"
-		"textAlignment_minmode"	"east"
-		
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
