@@ -37,7 +37,7 @@ Get in contact with me if you want me to delete your hud elements.
 
 # Discord:
 + There is a Discord! This is for voting for new changes and to gather feedback directly.
-+ https://discord.gg/yeZeUefUuy
++ https://discord.gg/Nq4cJSVBpH
 
 
 # Current Version: V2.61a
