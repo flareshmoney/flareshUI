@@ -43,25 +43,18 @@ Get in contact with me if you want me to delete your hud elements.
 # Current Version: V2.61a
 + Time released:     10/12/2021
 
-+ Last time updated: 25/02/2022
++ Last time updated: 14/03/2022
 
-# Changelog: Version V2.61a-> V2.61c
-+ Fixed bonk meter to be correctly placed.
-+ Fixed low ammo color not showing.
- 
-# Changelog V2.61a
-+ Updated ammo in reserve to be slightly lower on the screen.
-+ Updated single ammo weapons to be the same pos as the ones with reserve ammo.
-+ Updated Medic charge meter to match the other charge meters.
-+ Updated HudMatchstatus to have better visibility when someone is dead.
-+ Updated Engineer build status to not have a team colored BG.
-+ Updated Stopwatch timer to be more centered and more moved to the top.
-+ Updated SpectatorTournament_Default to have a bigger respawning font.
-+ Updated Chat to use the HUD's main font.
-+ Updated Taunt menu to use the HUD's Main font.
-+ Updated Chatbox to be slightly moved down due to a HL specing related issue.
-+ Fixed a TargetID ammo icon issue when healing.
-
+# Changelog: Version V2.61c-> V2.62a
++ Added a instruction manual in the "flareshui" folder.
++ Updated item inspect panel to be transparent.
++ Updated ammo with no clip in it to be a more to the right.
++ Slightly adjusted the player posistion in the tournament UI to be lower.
++ Slightly adjusted the ammo in reserve to be a bit down and to the left.
++ Slightly adjusted the controlpoint overlay images (like for cp_steel) to be a bit bigger.
++ Changed matchstatus player name font to the huds main font (Product).
++ Fixed an minor visual issue with red's score on the scoreboard.
++ Removed refrences to "Yahud" in the huds files.
 
 
 
