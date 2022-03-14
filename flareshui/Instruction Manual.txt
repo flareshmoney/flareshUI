@@ -1,0 +1,58 @@
+-=flaresh-UI Instruction Manual
+
+Last updated: flaresh-UI Version 2.62a
+
+-=Includes:
+Github download issue fix.
+Fixing missing fonts.
+Changing Spectator UI's.
+Changing to Medic uber tracker.
+Changing Uber label when looking at Medics / getting healed by Medics.
+
+-=Github download issue fix.
+1. Download the .zip file from github.
+2. Open "flareshUI-main.zip"
+3. Open "flareshUI-main" in the .zip file.
+4. Put "flareshui" in the custom folder.
+5. Restart your game.
+6. Enjoy.
+
+-=Fixing missing fonts.
+1. Go to the "flareshUI/resource/fonts" folder.
+2. Select all font's in the fonts folder.
+3. Download all selected fonts.
+4. Restart your game.
+5. Enjoy.
+
+
+-=Changing Spectator UI's
+1. Go to the "flareshUI/Customizations" folder.
+2. Open the "SpectatorTournament.res" file.
+3. Remove the "//" to the one you want to use.
+4. Add "//" to the one you don't want to use.
+5. Save the file and enter "Hud_reloadscheme" in console.
+6. Enjoy.
+
+-=Chaning to Medic uber tracker.
+1. Go to the "flareshUI/Customizations" folder.
+2. Open the "HudMedicCharge" file.
+3. Remove the "//" to the one you want to use.
+4. Add "//" to the one you don't want to use.
+5. Copy "HudAnimations_flareshUI - Uber Tracker" To "flareshUI/Scripts"
+6. Remove "HudAnimations_flareshUI" (In the scripts folder).
+7. Rename "HudAnimations_flareshUI - Uber Tracker" to "HudAnimations_flareshUI".
+8. Restart your game.
+9. Press "C" twice.
+10. Enjoy.
+
+-=Changing Uber label when looking at Medics / getting healed by Medics.
+1. Go to the "flareshUI/resource" folder.
+2. Remove the "chat_english" TXT file.
+3. Restart your game.
+4. Enjoy.
+
+-=
+
+If there are any more questions I have a discord server for the hud, feel free to join.
+https://discord.gg/yeZeUefUuy
+
