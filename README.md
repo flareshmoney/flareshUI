@@ -56,6 +56,14 @@ Get in contact with me if you want me to delete your hud elements.
 + Fixed an minor visual issue with red's score on the scoreboard.
 + Removed refrences to "Yahud" in the huds files.
 
+ + Vaccinator UI changes include:
++ Removed the weird white sqaure.
++ Added a black background to the charges.
++ Changed the posistion of the vaccinator icon to be under the crosshair.
++ Changed the posistion of the charges to be under the crosshair.
++ Changed the Uber meter to be the same size as the normal uber meter.
+
+
 
 
 
