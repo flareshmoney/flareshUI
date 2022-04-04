@@ -73,6 +73,7 @@ Get in contact with me if you want me to delete your hud elements.
 
 # Known Issues:
 + Some hudelements being 1 pixel off.
++ MvM scoreboard not existing.
 
 # Changelog from V1.0d to V2.0a 
 
