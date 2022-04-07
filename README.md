@@ -40,10 +40,16 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/Nq4cJSVBpH
 
 
-# Current Version: V2.61a
+# Current Version: V2.61b
 + Time released:     10/12/2021
 
-+ Last time updated: 14/03/2022
++ Last time updated: 07/04/2022
+
+# Changelog: Version V2.61b
+
++ Updated the bonk item meter to be correctly located.
+
+# Previous version's changelog:
 
 # Changelog: Version V2.61c-> V2.62a
 + Added a instruction manual in the "flareshui" folder.
