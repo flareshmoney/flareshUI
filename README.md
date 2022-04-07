@@ -40,12 +40,12 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/Nq4cJSVBpH
 
 
-# Current Version: V2.61b
+# Current Version: V2.62b
 + Time released:     10/12/2021
 
 + Last time updated: 07/04/2022
 
-# Changelog: Version V2.61b
+# Changelog: Version V2.62b
 
 + Updated the bonk item meter to be correctly located.
 
