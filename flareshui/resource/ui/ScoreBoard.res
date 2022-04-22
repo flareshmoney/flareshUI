@@ -301,15 +301,10 @@
 		"textAlignment"		"west"
 		"zpos"			"4"
 		
-		"xpos"			"c-250"
+		"xpos"			"c-251"
 		"ypos"			"c-155"	[$WIN32]
 		"wide"			"140"
 		"tall"			"20"
-		
-		"xpos_minmode"			"c-260"
-		"ypos_minmode"			"c-155"
-		"wide_minmode"			"140"
-		"tall_minmode"			"20"
 		
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -333,15 +328,10 @@
 		"fgcolor"		"0 0 0 255"
 		"zpos"			"3"
 		
-		"xpos"			"c-249"
+		"xpos"			"c-250"
 		"ypos"			"c-154"	[$WIN32]
 		"wide"			"140"
-		"tall"			"20"
-		
-		"xpos_minmode"			"c-259"
-		"ypos_minmode"			"c-154"
-		"wide_minmode"			"140"
-		"tall_minmode"			"20"
+		"tall"			"20"	
 		
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -363,16 +353,11 @@
 		"labelText"		"%blueteamscore%"
 		"textAlignment"		"east"
 		
-		"xpos"			"c-110"
+		"xpos"			"c-120"
 		"ypos"			"c-175"
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"55"
-		
-		"xpos_minmode"			"c-120"
-		"ypos_minmode"			"c-175"
-		"wide_minmode"			"100"
-		"tall_minmode"			"55"
 		
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -394,16 +379,11 @@
 		"textAlignment"		"east"
 		"fgcolor"		"0 0 0 255"
 		
-		"xpos"			"c-109"
+		"xpos"			"c-120"
 		"ypos"			"c-174"
 		"zpos"			"3"
-		"wide"			"100"
+		"wide"			"101"
 		"tall"			"55"
-		
-		"xpos_minmode"			"c-119"
-		"ypos_minmode"			"c-174"
-		"wide_minmode"			"100"
-		"tall_minmode"			"55"
 		
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -431,11 +411,6 @@
 		"wide"			"100"
 		"tall"			"20"
 		
-		"xpos_minmode"			"c-110"
-		"ypos_minmode"			"c-155"
-		"wide_minmode"			"100"
-		"tall_minmode"			"20"
-		
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -461,11 +436,6 @@
 		"ypos"			"c-154"
 		"wide"			"100"
 		"tall"			"20"
-		
-		"xpos_minmode"			"c-109"
-		"ypos_minmode"			"c-154"
-		"wide_minmode"			"100"
-		"tall_minmode"			"20"
 		
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -518,7 +488,7 @@
 		"textAlignment"		"east"
 		"zpos"			"3"
 		
-		"xpos"			"c50"
+		"xpos"			"c51"
 		"ypos"			"c-154"	[$WIN32]
 		"wide"			"140"
 		"tall"			"20"
@@ -866,8 +836,8 @@
 		
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"255 255 255 150"
 		"PaintBackgroundType"	"0"
 		
@@ -938,16 +908,16 @@
 		"fieldName"		"PlayerNameLabel"
 		"font"			"ScoreboardMedium"
 		"labelText"		"%playername%"
-		"textAlignment"		"west"
-		"xpos"			"165"
-		"ypos"			"277"	[$WIN32]
+		"textAlignment"		"center"
+		"xpos"			"255"
+		"ypos"			"415"	[$WIN32]
 		"zpos"			"3"
 		"wide"			"325"	[$WIN32]
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		if_mvm
 		{
