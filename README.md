@@ -40,40 +40,19 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/Nq4cJSVBpH
 
 
-# Current Version: V2.62b
+# Current Version: V2.62c
 + Time released:     10/12/2021
 
-+ Last time updated: 07/04/2022
++ Last time updated: 22/04/2022
 
-# Changelog: Version V2.62b
+# Changelog: Version V2.62c
 
-+ Updated the bonk item meter to be correctly located.
+flareshUI V2.62c(hancelog)!
 
-# Previous version's changelog:
-
-# Changelog: Version V2.61c-> V2.62a
-+ Added a instruction manual in the "flareshui" folder.
-+ Updated item inspect panel to be transparent.
-+ Updated ammo with no clip in it to be a more to the right.
-+ Slightly adjusted the player posistion in the tournament UI to be lower.
-+ Slightly adjusted the ammo in reserve to be a bit down and to the left.
-+ Slightly adjusted the controlpoint overlay images (like for cp_steel) to be a bit bigger.
-+ Changed matchstatus player name font to the huds main font (Product).
-+ Fixed an minor visual issue with red's score on the scoreboard.
-+ Removed refrences to "Yahud" in the huds files.
-
- + Vaccinator UI changes include:
-+ Removed the weird white sqaure.
-+ Added a black background to the charges.
-+ Changed the posistion of the vaccinator icon to be under the crosshair.
-+ Changed the posistion of the charges to be under the crosshair.
-+ Changed the Uber meter to be the same size as the normal uber meter.
-
-
-
-
-
-
++ Added a 4:3 folder in Customazations, Inscructions included in the folder.
++ Added indivutial playername to the scoreboard.
++ Centered respawn time in casual.
++ Fixed slight scoreboard inconsistencies
 
 
 
