@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"Flavor"	
+		"bgcolor_override"	"red"	
 	}
 	
 	"MoneyImagePanel"
@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyGood"
-		"font"			"NoveMedium18"
+		"font"			"Product18"
 		"fgcolor"		"White"
 		"xpos"			"r240"
 		"ypos"			"r19"
@@ -66,11 +66,28 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurrencyBad"
-		"font"			"NoveMedium18"
+		"font"			"Product18"
 		"fgcolor"		"White"
 		"xpos"			"r240"
-		"ypos"			"r19"
+		"ypos"			"r18"
 		"zpos"			"4"
+		"wide"			"80"
+		"tall"			"18"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"%currency%"
+	}
+	
+	"CurrencyBadShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyBad"
+		"font"			"Product18"
+		"fgcolor"		"Black"
+		"xpos"			"r239"
+		"ypos"			"r17"
+		"zpos"			"3"
 		"wide"			"80"
 		"tall"			"18"
 		"visible"		"1"
