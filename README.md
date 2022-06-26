@@ -40,25 +40,22 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/Nq4cJSVBpH
 
 
-# Current Version: V2.62c
+# Current Version: V2.63a
 + Time released:     10/12/2021
 
-+ Last time updated: 22/04/2022
++ Last time updated: 26/06/2022
 
-# Changelog: Version V2.62c
+# Changelog: Version V2.63a
 
-flareshUI V2.62c(hancelog)!
+flareshUI V2.62a chancelog!
 
-+ Added a 4:3 folder in Customazations, Inscructions included in the folder.
-+ Added indivutial playername to the scoreboard.
-+ Centered respawn time in casual.
-+ Fixed slight scoreboard inconsistencies
++ Edited MvM Scoreboard to be visible, flawhud mvm scoreboard used as a base.
++ Added a Credits panel to MVM mode.
 
 
 
 # Known Issues:
 + Some hudelements being 1 pixel off.
-+ MvM scoreboard not existing.
 
 # Changelog from V1.0d to V2.0a 
 
