@@ -40,12 +40,12 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/Nq4cJSVBpH
 
 
-# Current Version: V2.63a
+# Current Version: V2.63b
 + Time released:     10/12/2021
 
-+ Last time updated: 26/06/2022
++ Last time updated: 28/06/2022
 
-# Changelog: Version V2.63a
+# Changelog: Version V2.63a 
 
 flareshUI V2.62a chancelog!
 
