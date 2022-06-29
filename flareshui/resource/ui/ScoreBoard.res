@@ -670,10 +670,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-        "image"                 "../vgui/replay/thumbnails/panels/Material_Transparent_black_70"	
-        "teambg_1"              "../vgui/replay/thumbnails/panels/Material_Transparent_black_70"
-		"teambg_2"              "../vgui/replay/thumbnails/panels/Material_Transparent_red_50"
-		"teambg_3"              "../vgui/replay/thumbnails/panels/Material_Transparent_blue_50"
+                "image"                 "../vgui/replay/thumbnails/panels/Material_Transparent_black_70"	
 		"scaleImage"    "1"
 		
 		"src_corner_height"		"23"			// pixels inside the image
