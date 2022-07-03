@@ -40,17 +40,19 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/Nq4cJSVBpH
 
 
-# Current Version: V2.63b
+# Current Version: V2.62b
 + Time released:     10/12/2021
 
-+ Last time updated: 28/06/2022
++ Last time updated: 03/07/2022
 
 # Changelog: Version V2.63a 
 
-flareshUI V2.62a chancelog!
+flareshUI V2.62a & V2.62b chancelog!
 
 + Edited MvM Scoreboard to be visible, flawhud mvm scoreboard used as a base.
 + Added a Credits panel to MVM mode.
++ Moved server and map label on the scoreboard.
++ Fixed some missing textures issues.
 
 
 
