@@ -631,5 +631,25 @@
 			"enabled"		"1"
 			"image"			"../sprites/obj_icons/icon_obj_cap_red_up"
 		}
+		
+		"Buff"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"Buff"
+			"xpos"			"9999"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"../vgui/replay/thumbnails/buff"
+		}
+		
+		"black70"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"black70"
+			"xpos"			"9999"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"../vgui/replay/thumbnails/panels/Material_Transparent_black_70"
+		}
 	}
 }
