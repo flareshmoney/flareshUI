@@ -40,14 +40,14 @@ Get in contact with me if you want me to delete your hud elements.
 + https://discord.gg/Nq4cJSVBpH
 
 
-# Current Version: V2.63b
+# Current Version: V2.63c
 + Time released:     10/12/2021
 
 + Last time updated: 03/07/2022
 
 # Changelog: Version V2.63a 
 
-flareshUI V2.63a & V2.63b chancelog!
+flareshUI V2.63b & V2.63c chancelog!
 
 + Edited MvM Scoreboard to be visible, flawhud mvm scoreboard used as a base.
 + Added a Credits panel to MVM mode.
