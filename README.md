@@ -35,11 +35,6 @@ Get in contact with me if you want me to delete your hud elements.
 + Creamy      (Suggested new SpectatorUI, Outlines on Damage Numbers, bigger playermodel, low ammo new color)
 
 
-# Discord:
-+ There is a Discord! This is for voting for new changes and to gather feedback directly.
-+ https://discord.gg/Nq4cJSVBpH
-
-
 # Current Version: V2.63c
 + Time released:     10/12/2021
 
